@@ -3,9 +3,10 @@
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
 *Based on data from:*
-- *[https://github.com/pluja/awesome-privacy]()*
-- *[https://github.com/tycrek/degoogle]()*
-
+- *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
+- *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
+- *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
+- *[https://github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
 # Index
 
 1. [Browser extensions](#browser-extensions)
@@ -14,6 +15,12 @@
 	2. [Google](#bloggersites)
 	3. [Instagram](#instagram)
 	4. [WhatsApp](#whatsapp)
+3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+    1. [Resources](#resources)
+    2. [Books](#books)
+    3. [Blog posts](#blog-posts)
+    4. [News articles](#news-articles)
+
 # Browser extensions
 
 | Name | Description |
@@ -42,8 +49,8 @@
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 # Replacements/alternatives
-
-### <span style="color:firebrick">Android/Fushsia</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## <span style="color:firebrick">Android/Fushsia</span>
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |     | Ubuntu, but for phones. |
@@ -58,7 +65,7 @@
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see Issue #55 for details on /e/.*
 
-### <span style="color:firebrick">Android home screen launchers</span>
+## <span style="color:firebrick">Android home screen launchers</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | [Open-source](https://github.com/amirzaidi/Shade) Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
@@ -67,7 +74,7 @@
 | [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
 
 
-### <span style="color:firebrick">Android Messages</span> (specifically SMS/MMS, not IM)
+## <span style="color:firebrick">Android Messages</span> (specifically SMS/MMS, not IM)
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | [Open-source](https://github.com/moezbhatti/qksms). Very clean and feature rich SMS app. Available on F-Droid. |
@@ -75,7 +82,7 @@
 | [Signal](https://signal.org/) |  | Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 
 
-### <span style="color:firebrick">Android Studio</span> (not specifically for Android development, just in general)
+## <span style="color:firebrick">Android Studio</span> (not specifically for Android development, just in general)
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
@@ -84,14 +91,15 @@
 | [Atom](https://atom.io/) |  | Atom is a free and [open-source](https://github.com/atom/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys |
 
 
-### <span style="color:firebrick">Android TV</span>
+## <span style="color:firebrick">Android TV</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
 | [OSMC](https://osmc.tv/) |  | Free, [open-source](https://github.com/osmc/osmc) media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
 
-### <span style="color:firebrick">Blogger/Sites</span>
+## <span style="color:firebrick">Blogger/Sites</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Joomla](https://www.joomla.org/) |     | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
@@ -103,14 +111,29 @@
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
 | [Simpleblogs](https://simpleblogs.org/) |     | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
 
-### <span style="color:firebrick">Calculator</span>
+## <span style="color:firebrick">Calculator</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | [Open-source](https://github.com/tranleduy2000/ncalc) feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
 | [Calculator++](https://github.com/Bubu/android-calculatorpp) [![F-Droid](https://img.shields.io/f-droid/v/org.solovyev.android.calculator?style=flat-square)](https://f-droid.org/en/packages/org.solovyev.android.calculator/) |  | [Open-source](https://github.com/Bubu/android-calculatorpp) calculator packed with features. Thanks @ghost |
 
-### <span style="color:firebrick">Chrome OS</span>
+## <span style="color:firebrick">Chromebook</span>
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
+| [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
+| [Pinebook Pro](https://www.pine64.org/pinebook-pro) |  | Mid-range Linux/FreeBSD alternative to Chromebook. |
+
+## <span style="color:firebrick">Chromecast</span>
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
+| RaspberryCast(https://github.com/vincelwt/RaspberryCast)|| Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.|
+
+## <span style="color:firebrick">Chrome OS</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [GalliumOS](https://galliumos.org/) |  | "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu. |
@@ -123,14 +146,14 @@
 | [GhostBSD](https://ghostbsd.org/) |  | This is a secure [open-source](https://github.com/GhostBSD) OS based on FreeBSD, preconfigured to be a sane desktop environment for all users. |
 | [Any other form of Linux](https://www.linuxfoundation.org/) |  | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
-### <span style="color:firebrick">Clock</span>
+## <span style="color:firebrick">Clock</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
 | [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
 
-### <span style="color:firebrick">Contacts</span>
+## <span style="color:firebrick">Contacts</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -139,7 +162,13 @@
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio) |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks. |
 
-#### <span style="color:firebrick">Gboard</span> (Google Keyboard)
+## <span style="color:firebrick">FitBit</span>
+
+No known alternatives.
+
+- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+
+## <span style="color:firebrick">Gboard</span> (Google Keyboard)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -151,7 +180,7 @@
 | [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 
 
-### <span style="color:firebrick">Gmail</span>
+## <span style="color:firebrick">Gmail</span>
 #### Application
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -179,19 +208,19 @@
 | [CTemplar](https://ctemplar.com/) |     | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
 
-### <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
+## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [EthicalAds](https://www.ethicalads.io/) |     | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
 
-### <span style="color:firebrick">Google Alerts</span>
+## <span style="color:firebrick">Google Alerts</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
 
-### <span style="color:firebrick">Google Analytics</span>
+## <span style="color:firebrick">Google Analytics</span>
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (thanks u/Newblik) |
@@ -209,13 +238,13 @@
 | [userTrack](https://www.usertrack.net/) |     | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 
-### <span style="color:firebrick">Google Assistant</span>
+## <span style="color:firebrick">Google Assistant</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
 | [Ara](https://github.com/FultonBrowne/Ara-android) |  | [Open-source](https://github.com/FultonBrowne/Ara-android) virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara) |
 
-### <span style="color:firebrick">Google Authenticator</span>
+## <span style="color:firebrick">Google Authenticator</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | [Open-source](https://github.com/andOTP/andOTP) 2FA app. |
@@ -225,7 +254,7 @@
 | [Tofu](https://tofuauth.com) |  | **iOS** - [Open-source](https://github.com/calleerlandsson/tofu) 2FA for iOS. |
 
 
-### <span style="color:firebrick">Google Calendar</span>
+## <span style="color:firebrick">Google Calendar</span>
 #### Application
 | Name | Eyes | Description |
 | --- | --- | --- |
@@ -247,12 +276,12 @@
 | [Radicale](https://radicale.org/) |     | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
 | [Mailfence Calendar](https://www.mailfence.com) | **14-eyes** | Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls. |
 
-### <span style="color:firebrick">Google Camera</span>
+## <span style="color:firebrick">Google Camera</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | [Open-source](https://sourceforge.net/p/opencamera/code/ci/master/tree/) camera for Android. Thanks @je-vv |
 
-### <span style="color:firebrick">Google Chrome</span>
+## <span style="color:firebrick">Google Chrome</span>
 #### Android
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -267,14 +296,14 @@
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 
-### <span style="color:firebrick">Google Classroom</span>
+## <span style="color:firebrick">Google Classroom</span>
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Moodle](https://moodle.org/) |     | Self-hosted [open-source](https://github.com/moodle/moodle) Classroom software for schools. Very powerful. Thanks @jankapunkt |
 | [ILIAS](https://www.ilias.de/en/) |     | Another self-hosted [open-source](https://github.com/ILIAS-eLearning/ILIAS) classroom software. Thanks again to @jankapunkt |
 | [Canvas](https://www.instructure.com/canvas) |     | Paid service by Instructure. Also available as a self-hosted, [open-source](https://github.com/instructure/canvas-lms) option. To ensure privacy, use the self-hosted option. |
 
-### <span style="color:firebrick">Google Docs/Sheets/Slides</span>
+## <span style="color:firebrick">Google Docs/Sheets/Slides</span>
 
 #### Applications (cloud)
 
@@ -302,7 +331,7 @@
 | [ONLYOFFICE](https://www.onlyoffice.com) |     | [Open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. |
 | [Arcane Office](https://arcaneoffice.com/) |     | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti |
 
-### <span style="color:firebrick">Google Domains</span>
+## <span style="color:firebrick">Google Domains</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
@@ -310,7 +339,7 @@
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
 | [Orangewebsite](https://www.orangewebsite.com/) |     | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
-### <span style="color:firebrick">Google Drive</span>
+## <span style="color:firebrick">Google Drive</span>
 
 #### Application
 
@@ -334,7 +363,7 @@
 | [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) |     | Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business. |
 | [Cryptomator](https://cryptomator.org/) |     | Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service. |
 
-### <span style="color:firebrick">Google Duo</span>
+## <span style="color:firebrick">Google Duo</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -342,7 +371,7 @@
 | [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
 
 
-### <span style="color:firebrick">Google Fonts</span>
+## <span style="color:firebrick">Google Fonts</span>
 
 | Name | Eyes | Description |
 | ---- | --- | --- |
@@ -350,20 +379,20 @@
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host [open-source](https://github.com/majodev/google-webfonts-helper) fonts from Google Fonts |
 | [Brick](https://brick.im) | **9-eyes** | [Open-source](https://github.com/alfredxing/brick) fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
 
-### <span style="color:firebrick">Google Earth</span>
+## <span style="color:firebrick">Google Earth</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
 
-### <span style="color:firebrick">Google Forms</span>
+## <span style="color:firebrick">Google Forms</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [BlockSurvey](https://blocksurvey.io/) |     | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
 | [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) |     | Simple surveys and questionnaires, self-hosted! No mass of options, only the essentials. Works well on mobile of course. Results are visualized and can also be exported as CSV in the same format used by Google Forms. Unlike in Google Forms, Typeform, Doodle and others, the survey info and responses are kept private on your instance. |
 
-### <span style="color:firebrick">Google Groups</span>
+## <span style="color:firebrick">Google Groups</span>
 
 #### Applications
 
@@ -381,7 +410,14 @@
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
-### <span style="color:firebrick">Google Keep</span>
+## <span style="color:firebrick">Google Home</span>
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Mycroft](https://mycroft.ai/) | **5-eyes** | [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
+| [Home Assistant](https://www.home-assistant.io/) |  | [Open-source](https://github.com/home-assistant/) home automation. (thanks u/bilange) |
+
+## <span style="color:firebrick">Google Keep</span>
 
 #### Application
 
@@ -401,7 +437,7 @@
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
 
-### <span style="color:firebrick">Google Maps/Stree View</span>
+## <span style="color:firebrick">Google Maps/Stree View</span>
 #### Application
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -418,7 +454,7 @@
 | [Qwant Maps](https://www.qwant.com/maps/) |     | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
 | [Benmaps](https://benmaps.fr) |     | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
 
-### <span style="color:firebrick">Google News</span>
+## <span style="color:firebrick">Google News</span>
 #### Application
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -433,7 +469,7 @@
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |     | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
 | [Miniflux](https://miniflux.app/) |     | Miniflux is a minimalist and opinionated feed reader. Completely [open-source](https://github.com/miniflux), along with automatically removing pixel trackers. |
 
-### <span style="color:firebrick">Google Photos</span>
+## <span style="color:firebrick">Google Photos</span>
 ### Application
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -451,7 +487,15 @@
 | [Lychee](https://lycheeorg.github.io/) |     | An [open-source](https://github.com/LycheeOrg/Lychee) self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 | [Nextcloud Photos](https://github.com/nextcloud/photos) |     | The open source self-hosted productivity platform that keeps you in control. It has a Photos plugin to help you organize and visualize your photos. |
 
-### <span style="color:firebrick">Google Play Music, Movies, & TV</span>
+## <span style="color:firebrick">Google Pixel/Nexus</span>
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
+| [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
+| [PinePhone](https://www.pine64.org/pinephone/) | **5-eyes** | From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile. |
+
+## <span style="color:firebrick">Google Play Music, Movies, & TV</span>
 
 #### Application
 
@@ -475,13 +519,13 @@
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
 
-### <span style="color:firebrick">Google Play Services Framework</span>
+## <span style="color:firebrick">Google Play Services Framework</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
 
 
-### <span style="color:firebrick">Google Play Store</span>
+## <span style="color:firebrick">Google Play Store</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
@@ -495,14 +539,14 @@
 
 - *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
-### <span style="color:firebrick">G suite (enterprise cloud)</span>
+## <span style="color:firebrick">G suite (enterprise cloud)</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Nextcloud](https://www.nextcloud.com/) |     | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 | [Open-Xchange](https://www.open-xchange.com) |     | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
 
-### <span style="color:firebrick">Google Translate</span>
+## <span style="color:firebrick">Google Translate</span>
 
 #### Web-based
 
@@ -511,14 +555,14 @@
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 | [Apertium](https://apertium.org/) |     | A free, [open-source](https://github.com/apertium/apertium) translation system. |
 
-### <span style="color:firebrick">Google Transit</span>
+## <span style="color:firebrick">Google Transit</span>
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Transportr](https://transportr.app/) |     | An [open-source](https://github.com/grote/Transportr) Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
 
-### <span style="color:firebrick">Instagram</span>
-
+## <span style="color:firebrick">Instagram</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 #### Application
 
 | Name | Eyes | Description |
@@ -532,8 +576,8 @@
 | --- | --- | --- |
 | [Pixelfed](https://pixelfed.org) |     | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc. |
 
-### <span style="color:firebrick">WhatsApp</span>
-
+## <span style="color:firebrick">WhatsApp</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
 
 #### Application
@@ -562,13 +606,13 @@
 
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
-#### <span style="color:firebrick">Wear OS</span>
+### <span style="color:firebrick">Wear OS</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
-### <span style="color:firebrick">YouTube</span>
+## <span style="color:firebrick">YouTube</span>
 
 #### Applications
 
@@ -593,8 +637,94 @@
 | [Yotter](https://github.com/ytorg/yotter)![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square) |     | Youtube and Twitter with privacy. Never share any of your data to Youtube, yet be able to watch Youtube videos. |
 | [Piped](https://github.com/TeamPiped/Piped) ![GitHub stars](https://img.shields.io/github/stars/TeamPiped/Piped?style=flat-square) |     | Yet another alternative frontend for YouTube. |
 
-### <span style="color:firebrick">*Other*</span>
+## <span style="color:firebrick">*Other*</span>
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and [open-source](https://github.com/blokadaorg/blokada)." Uses internal VPN on Android to block ads. |
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
+
+# Useful links, tools, and advice
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## Resources
+
+Everything you need to become a Privacy Wizard.
+
+- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
+- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
+- [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
+- [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
+- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
+- [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
+- Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
+- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
+- Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
+- [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
+- [What is Tor and should I use it?](https://outline.com/JRCscH)
+- [HTTP vs. HTTPS](https://outline.com/xUXZMh)
+- The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
+- Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
+- Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
+- [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
+- [Why you should put tape over your webcam](https://outline.com/fYCu98)
+- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Thanks @resynth1943)
+- What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
+- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
+- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
+- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
+- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
+- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
+- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
+- u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
+- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
+- [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
+- Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
+
+
+## Books 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Edward Snowden |
+| [Ten Arguments for Deleting Your Social Media Accounts Right Now](http://www.jaronlanier.com/tenarguments.html) | ![Published](https://img.shields.io/badge/2018-informational?style=flat-square) | Jaron Lanier |
+| [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Shoshana Zuboff |
+| [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
+| [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
+
+
+## Blog posts 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational?style=flat-square) | Bennett Cyphers and Mitch Stoltz - EFF |
+| [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational?style=flat-square) | J. Nathan Matias |
+| [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
+
+
+## News articles 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational?style=flat-square) | Robert Sher - Forbes |
+| [The truth about Google's famous '20% time' policy](https://outline.com/SmyHJW) | ![Published](https://img.shields.io/badge/2015--04--17-informational?style=flat-square) | Jillian D'Onfro - Business Insider |
+| [The Binge Breaker](https://outline.com/EmHWna) | ![Published](https://img.shields.io/badge/2016--11--01-informational?style=flat-square) | Bianca Bosker - The Atlantic |
+| [How Malware Keeps Sneaking Past Google Play’s Defenses](https://outline.com/2mAwU7) | ![Published](https://img.shields.io/badge/2017--09--22-informational?style=flat-square) | Lily Hay Newman - WIRED |
+| [Forget Killer Robots — Bias Is the Real AI Danger](https://outline.com/VqaaUD) | ![Published](https://img.shields.io/badge/2017--10--03-informational?style=flat-square) | Will Knight - MIT Technology Review |
+| [Google managers kept blacklists of conservative employees and one manager considered holding 'trials,' a new lawsuit alleges](https://outline.com/NMrzg2) | ![Published](https://img.shields.io/badge/2018--01--08-informational?style=flat-square) | Julie Bort - Business Insider |
+| [A longtime Google engineer quits, saying the company is ’100% competitor-focused’ and ‘can no longer innovate’](https://outline.com/WfF8DP) | ![Published](https://img.shields.io/badge/2018--01--24-informational?style=flat-square) | Jillian D'Onfro - CNBC |
+| [Facebook and Google are doomed, George Soros says](https://outline.com/GTMKNM) | ![Published](https://img.shields.io/badge/2018--01--26-informational?style=flat-square) | Hamza Shaban - Washington Post |
+| [Google Isn't Listening, So Its Employees Are Suing](https://outline.com/9awE8Z) | ![Published](https://img.shields.io/badge/2018--03--26-informational?style=flat-square) | Kate Conger - Gizmodo |
+| [Google sees major claims of harassment and discrimination as lawsuits proceed](https://outline.com/NcxRr3) | ![Published](https://img.shields.io/badge/2018--03--28-informational?style=flat-square) | Sam Levin - The Guardian |
+| [How to stop Google from tracking everything you do online](https://outline.com/uez3G5) | ![Published](https://img.shields.io/badge/2018--05--11-informational?style=flat-square) | Todd Haselton - CNBC |
+| [Google will always do evil](https://outline.com/YhAP7C) | ![Published](https://img.shields.io/badge/2018--05--24-informational?style=flat-square) | Jessica Conditt - Engadget |
+| [Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://outline.com/NjBrf9) | ![Published](https://img.shields.io/badge/2018--06--07-informational?style=flat-square) | Devin Coldewey - TechCrunch |
+| [Google Plans to Launch Censored Search Engine in China, Leaked Documents Reveal](https://outline.com/dXrdLr) | ![Published](https://img.shields.io/badge/2018--08--01-informational?style=flat-square) | Ryan Gallagher - The Intercept |
+| [Google’s China plan isn’t just evil — it’s bad for business](https://outline.com/VRAxTZ) | ![Published](https://img.shields.io/badge/2018--08--09-informational?style=flat-square) | Josh Rogin - Washington Post |
+| [How Google Protected Andy Rubin, the ‘Father of Android’](https://outline.com/4Ua6SY) | ![Published](https://img.shields.io/badge/2018--10--25-informational?style=flat-square) | Daisuke Wakabayashi and Katie Benner - New York Times |
+| [A New Google+ Blunder Exposed Data From 52.5 Million Users](https://outline.com/w7Gxux) | ![Published](https://img.shields.io/badge/2018--12--10-informational?style=flat-square) | Lily Hay Newman - WIRED |
+| [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr) | ![Published](https://img.shields.io/badge/2019--08--13-informational?style=flat-square) | Nitasha Tiku - WIRED |
+| [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh) | ![Published](https://img.shields.io/badge/2020--01--23-informational?style=flat-square) | Natasha Lomas - TechCrunch |
+| [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational?style=flat-square) | Shoshana Zuboff - New York Times |
