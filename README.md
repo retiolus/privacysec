@@ -7,6 +7,7 @@
 - *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
 - *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
 - *[https://github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
+- *[https://github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
 # Index
 
 1. [Browser extensions](#browser-extensions)
@@ -61,12 +62,19 @@
 | --- | --- | --- |
 | [Audacity](https://www.audacityteam.org) ||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as [open source](https://github.com/audacity/audacity).|
 ## <span style="color:firebrick">Adobe Dreamweaver</span>
-- *See [Microsft Visual Studio](#microsoft-visual-studio)*
+- *See [Microsoft Visual Studio](#microsoft-visual-studio)*
 ## <span style="color:firebrick">Adobe Illustrator</span>
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Inkscape](https://inkscape.org/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Free and [open-source](https://gitlab.com/inkscape/inkscape) vector graphics editor used to create vector images, primarily in Scalable Vector Graphics format. |
 ## <span style="color:firebrick">Adobe Photoshop</span>
+#### Android
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/)[![F-Droid](https://img.shields.io/f-droid/v/org.catrobat.paintroid?style=flat-square)](https://f-droid.org/en/packages/org.catrobat.paintroid/)||Paintroid (or Pocket Paint) is an [open-source](https://github.com/Catrobat/Paintroid) graphical paint editor App, that, among others, allows setting parts of pictures to transparent, insert Text / Images, add Layers, use Color filling and picking tools, rotate, resize and position elements...|
+| [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)[![F-Droid](https://img.shields.io/f-droid/v/com.jarsilio.android.scrambledeggsif?style=flat-square)](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)||Remove Exif data from pictures before sharing them.|
+|[Imagepipe](https://codeberg.org/Starfish/Imagepipe)[![F-Droid](https://img.shields.io/f-droid/v/de.kaffeemitkoffein.imagepipe?style=flat-square)](https://f-droid.org/en/packages/de.kaffeemitkoffein.imagepipe/)||Reduces image size and removes exif-tags when sharing images on android devices.|
+#### Desktop
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [GIMP](https://www.gimp.org/)||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its [source code](https://gitlab.gnome.org/GNOME/gimp) and distribute your changes. |
