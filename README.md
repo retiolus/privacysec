@@ -11,10 +11,12 @@
 
 1. [Browser extensions](#browser-extensions)
 2. **[Replacements/alternatives](#replacementsalternatives)**
-	1. [Android](#androidfushsia)
-	2. [Google](#bloggersites)
-	3. [Instagram](#instagram)
-	4. [WhatsApp](#whatsapp)
+	1. [Adobe](#adobe-after-effects)
+	2. [Android](#androidfushsia)
+	3. [Google](#bloggersites)
+	4. [Instagram](#instagram)
+	5. [Microsoft](#microsoft-visual-studio)
+	6. [WhatsApp](#whatsapp)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
     1. [Resources](#resources)
     2. [Books](#books)
@@ -50,7 +52,28 @@
 
 # Replacements/alternatives
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## <span style="color:firebrick">Adobe After Effects</span>
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Blender](https://www.blender.org/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Blender is the free and [open source](https://developer.blender.org/diffusion/) 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+## <span style="color:firebrick">Adobe Audition</span>
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Audacity](https://www.audacityteam.org) ||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as [open source](https://github.com/audacity/audacity).|
+## <span style="color:firebrick">Adobe Dreamweaver</span>
+- *See [Microsft Visual Studio](#microsoft-visual-studio)*
+## <span style="color:firebrick">Adobe Illustrator</span>
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Inkscape](https://inkscape.org/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Free and [open-source](https://gitlab.com/inkscape/inkscape) vector graphics editor used to create vector images, primarily in Scalable Vector Graphics format. |
+## <span style="color:firebrick">Adobe Photoshop</span>
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [GIMP](https://www.gimp.org/)||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its [source code](https://gitlab.gnome.org/GNOME/gimp) and distribute your changes. |
+| [Krita](https://krita.org/en/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black)<br /> Free and [open-source](https://invent.kde.org/graphics/krita) raster graphics editor designed primarily for digital painting and 2D animation |
+
 ## <span style="color:firebrick">Android/Fushsia</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |     | Ubuntu, but for phones. |
@@ -576,6 +599,11 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Pixelfed](https://pixelfed.org) |     | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc. |
+## <span style="color:firebrick">Microsoft Visual Studio</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Atom](https://atom.io/) || ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Atom is a free and [open-source](https://github.com/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Javascript, and embedded Git Control, developed by GitHub. |
 
 ## <span style="color:firebrick">WhatsApp</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
