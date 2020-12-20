@@ -16,8 +16,9 @@
 	2. [Android](#androidfushsia)
 	3. [Google](#bloggersites)
 	4. [Instagram](#instagram)
-	5. [Microsoft](#microsoft-visual-studio)
-	6. [WhatsApp](#whatsapp)
+	5. [Microsoft](#microsoft-office)
+	6. [Twitter](#twitter)
+	7. [WhatsApp](#whatsapp)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
     1. [Resources](#resources)
     2. [Books](#books)
@@ -655,7 +656,14 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Atom](https://atom.io/) || ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Atom is a free and [open-source](https://github.com/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Javascript, and embedded Git Control, developed by GitHub. |
-
+## <span style="color:firebrick">Twitter</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Mastodon](https://joinmastodon.org/)[![GitHub stars](https://img.shields.io/github/stars/tootsuite/mastodon?style=flat-square)](https://github.com/tootsuite/mastodon)|| Mastodon is software for web-based federated microblogging, intended to be an "actually viable alternative to Twitter". Users can post 500-character status messages which can optionally include images, topic tags, and linked mentions of other users. It is open source and there are a number of independent instances online in addition to the flagship at mastodon.social.|
+|[Pleroma](https://pleroma.social/)||Pleroma is a free, federated social networking server built on [open protocols](https://git.pleroma.social/pleroma/pleroma/). It is compatible with GNU Social, Mastodon, and many other ActivityPub implementations. |
+|[Nitter](https://nitter.net/)![GitHub stars](https://img.shields.io/github/stars/zedeus/nitter?style=flat-square)||Nitter is a free and [open source](https://github.com/zedeus/nitter) alternative Twitter front-end focused on privacy. |
+|[Yotter](https://yotter.xyz/)[![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)||Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts in a beautiful feed so you can stay up to date without compromising your privacy at all. |
 ## <span style="color:firebrick">WhatsApp</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
@@ -686,7 +694,7 @@ No known alternatives.
 
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
-### <span style="color:firebrick">Wear OS</span>
+## <span style="color:firebrick">Wear OS</span>
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
