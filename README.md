@@ -88,7 +88,6 @@
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | [Open-source](https://github.com/lineageos) and based on Android, but without the crap. |
 | [SailfishOS](https://sailfishos.org/) |     | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an [open-source](http://releases.sailfishos.org/sources/) Mer GNU/Linux base. |
 | [GrapheneOS](https://grapheneos.org/) |     | [Open-source](https://github.com/GrapheneOS) Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
-| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |     | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 | [CalyxOS](https://calyxos.org/) |     | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
