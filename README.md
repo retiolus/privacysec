@@ -53,6 +53,13 @@
 
 # Replacements/alternatives
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+| [Eyes](https://www.privacytools.io/providers/#ukusa) | Countries |
+| :---: | --- |
+| 5 | Australia, Canada, New Zeland, UK, USA |
+| 9 | Denmark, France, Netherlands, Norway |
+| 14 | Germany, Belgium, Italy, Sweden, Spain |
+
 ## <span style="color:firebrick">Adobe After Effects</span>
 | Name | Eyes | Description |
 | --- | --- | --- |
