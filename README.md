@@ -485,6 +485,7 @@ No known alternatives.
 | [Cryptee](https://crypt.ee/) |     | Encrypted photo storage in a simple solution similar to Google Photos. |
 | [PhotoStructure](https://photostructure.com/) |     | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
 | [Lychee](https://lycheeorg.github.io/) |     | An [open-source](https://github.com/LycheeOrg/Lychee) self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
+| [LibrePhotos](https://github.com/LibrePhotos/librephotos) ![GitHub stars](https://img.shields.io/github/stars/H-PixelDroid/PixelDroid?style=flat-square)| | Active [OwnPhotos](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.|
 | [Nextcloud Photos](https://github.com/nextcloud/photos) |     | The open source self-hosted productivity platform that keeps you in control. It has a Photos plugin to help you organize and visualize your photos. |
 
 ## <span style="color:firebrick">Google Pixel/Nexus</span>
