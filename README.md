@@ -146,7 +146,6 @@
 
 ## <span style="color:firebrick">Blogger/Sites</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Joomla](https://www.joomla.org/) |     | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
@@ -228,6 +227,8 @@ No known alternatives.
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod?style=flat-square)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | [Open-source](https://github.com/rkkr/simple-keyboard) keyboard. |
 | [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | [Open-source](https://gitlab.com/indicproject/indic-keyboard) keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
 | [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
+| [FlorisBoard](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard)||FlorisBoard is an [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy.|
+
 
 
 ## <span style="color:firebrick">Gmail</span>
