@@ -632,14 +632,15 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | --- | --- | --- |
-| Barinsta |     | The beautiful, open source, and privacy-friendly alternative Instagram client for Android. |
 | [PixelDroid](https://github.com/H-PixelDroid/PixelDroid)![GitHub stars](https://img.shields.io/github/stars/H-PixelDroid/PixelDroid?style=flat-square) |     | Free (as in freedom) Android client for Pixelfed, the federated image sharing platform. |
+| [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) ![F-Droid](https://img.shields.io/f-droid/v/me.austinhuang.instagrabber?style=flat-square)|     | The beautiful, open source, and privacy-friendly alternative Instagram client for Android. |
 
 #### Web-based
 
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Pixelfed](https://pixelfed.org) |     | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc. |
+| [Bibliogram](https://bibliogram.art/)||Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.|
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 - *See [Google Docs](#google-docs)*
