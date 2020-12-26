@@ -2,7 +2,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-*Hello world*
+Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
 *Based on data from:*
 - *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
