@@ -660,6 +660,11 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Atom](https://atom.io/) || ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Atom is a free and [open-source](https://github.com/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Javascript, and embedded Git Control, developed by GitHub. |
+## <span style="color:firebrick">Slack</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Name | Eyes | Description |
+| --- | --- | --- |
+|[Mattermost](https://mattermost.com/)||Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
