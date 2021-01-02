@@ -95,6 +95,12 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [GIMP](https://www.gimp.org/)||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its [source code](https://gitlab.gnome.org/GNOME/gimp) and distribute your changes. |
 | [Krita](https://krita.org/en/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black)<br /> Free and [open-source](https://invent.kde.org/graphics/krita) raster graphics editor designed primarily for digital painting and 2D animation |
 
+## <span style="color:firebrick">Adobe Premiere Pro</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+| Name | Eyes | Description |
+| --- | --- | --- |
+|[Kdenlive](https://kdenlive.org/en/toolbox/)|| ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Intuitive and powerful [open-source](https://invent.kde.org/multimedia/kdenlive) multi-track video editor compatible with latest video technologies. Most of the video processing is done by the MLT Framework, which relies on many other open source projects like FFmpeg, frei0r, movit, ladspa, sox, etc.|
+|[Shotcut](https://www.shotcut.org/)|| ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Shotcut is a free, [open source](https://github.com/mltframework/shotcut), cross-platform, non-linear video editor.|
 ## <span style="color:firebrick">Android/Fushsia</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
@@ -664,7 +670,7 @@ No known alternatives.
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
 | --- | --- | --- |
-|[Mattermost](https://mattermost.com/)||Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
+|[Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
