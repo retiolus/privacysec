@@ -222,9 +222,9 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/)                                                                        |      | Sécurisé, chiffré de bout en bout et synchronisation [open-source](https://github.com/etesync) pour vos contacts, calendriers et tâches.           |
 
 ## <span style="color:firebrick">FitBit</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index) No known alternatives.
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index) Aucune alternative connue.
 
-- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+- *En raison de l'[acquisition récente de FitBit](https://outline.com/tsJCYN) par Google, il est recommandé d'éviter d'utiliser FitBit. À la place, regardez cette [liste de montres intelligentes](https://asteroidos.org/install/) prise en charge par Asteroid OS (Voir Wear OS dans [Systèmes d'exploitation](#operating-systems)). Thanks @ribtoks*
 
 ## <span style="color:firebrick">Gboard</span> (Google Keyboard)
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
