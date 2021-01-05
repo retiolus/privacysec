@@ -757,6 +757,7 @@ Everything you need to become a Privacy Wizard.
 - [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
 - [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers 
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
 - [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
