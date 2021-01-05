@@ -1,5 +1,5 @@
 # **PRIVACYSEC**
-
+[![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
 Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
