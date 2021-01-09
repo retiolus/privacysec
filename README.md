@@ -720,12 +720,12 @@ No known alternatives.
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *See [Google Docs](#google-docs)*
-- 
+
 ## <span style="color:firebrick">Microsoft OneDrive</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *See [Google Drive](#google-drive)*
-- 
+
 ## <span style="color:firebrick">Microsoft Teams</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
