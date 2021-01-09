@@ -19,8 +19,9 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 	3. [Google](#bloggersites)
 	4. [Instagram](#instagram)
 	5. [Microsoft](#microsoft-office)
-	6. [Twitter](#twitter)
-	7. [WhatsApp](#whatsapp)
+	6. [Reddit](#reddit)
+	7. [Twitter](#twitter)
+	8. [WhatsApp](#whatsapp)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
     1. [Resources](#resources)
     2. [Books](#books)
@@ -666,6 +667,19 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Atom](https://atom.io/) || ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Atom is a free and [open-source](https://github.com/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Javascript, and embedded Git Control, developed by GitHub. |
+## <span style="color:firebrick">Reddit</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+#### Application
+| Name | Eyes | Description |
+| --- | --- | --- |
+|[lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/LemmyNet/lemmy) - a federated reddit alternative|
+|[Infinity](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)[![F-Droid](https://img.shields.io/f-droid/v/ml.docilealligator.infinityforreddit?style=flat-square)](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)![GitHub stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely free and ad-less; you can browse Reddit without interruptions or distractions. Built by a passionate university student, Infinity is [open source](https://github.com/Docile-Alligator/Infinity-For-Reddit). |
+|[RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)![GitHub stars](https://img.shields.io/github/stars/QuantumBadger/RedReader?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />An unofficial, [open source](https://github.com/QuantumBadger/RedReader) Android client for Reddit.|
+|[Slide](https://f-droid.org/packages/me.ccrama.redditslide/)[![F-Droid](https://img.shields.io/f-droid/v/me.ccrama.redditslide?style=flat-square)](https://f-droid.org/en/packages/me.ccrama.redditslide/)![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Slide is an [open source](https://github.com/ccrama/Slide), ad free Reddit browser for Android. It is based around the [Java Reddit API Wrapper](https://github.com/thatJavaNerd/JRAW).|
+#### Web-based
+| Name | Eyes | Description |
+| --- | --- | --- |
+|[Lemmy](https://github.com/LemmyNet/lemmy)![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat-square)||![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Lemmy is similar to sites like [Reddit](https://reddit.com/), [Lobste.rs](https://lobste.rs/), or [Hacker News](https://news.ycombinator.com/): you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the [Fediverse](https://en.wikipedia.org/wiki/Fediverse).|
 ## <span style="color:firebrick">Slack</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 | Name | Eyes | Description |
@@ -673,13 +687,17 @@ No known alternatives.
 |[Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+#### Application
+| Name | Eyes | Description |
+| --- | --- | --- |
+|[Twidere](https://f-droid.org/packages/org.mariotaku.twidere/)![GitHub stars](https://img.shields.io/github/stars/TwidereProject/Twidere-Android?style=flat-square)[![F-Droid](https://img.shields.io/f-droid/v/org.mariotaku.twidere?style=flat-square)](https://f-droid.org/en/packages/org.mariotaku.twidere/)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app. There is also TwidereX, currently in development, available for [Android](https://github.com/TwidereProject/TwidereX-Android) and [iOS](https://github.com/TwidereProject/TwidereX-iOS).|
+#### Web-based
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Mastodon](https://joinmastodon.org/)[![GitHub stars](https://img.shields.io/github/stars/tootsuite/mastodon?style=flat-square)](https://github.com/tootsuite/mastodon)|| Mastodon is software for web-based federated microblogging, intended to be an "actually viable alternative to Twitter". Users can post 500-character status messages which can optionally include images, topic tags, and linked mentions of other users. It is open source and there are a number of independent instances online in addition to the flagship at mastodon.social.|
 |[Pleroma](https://pleroma.social/)||Pleroma is a free, federated social networking server built on [open protocols](https://git.pleroma.social/pleroma/pleroma/). It is compatible with GNU Social, Mastodon, and many other ActivityPub implementations. |
 |[Nitter](https://nitter.net/)![GitHub stars](https://img.shields.io/github/stars/zedeus/nitter?style=flat-square)||Nitter is a free and [open source](https://github.com/zedeus/nitter) alternative Twitter front-end focused on privacy. |
 |[Yotter](https://yotter.xyz/)[![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)||Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts in a beautiful feed so you can stay up to date without compromising your privacy at all. |
-|[Twidere](https://f-droid.org/packages/org.mariotaku.twidere/)||An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app.|
 ## <span style="color:firebrick">WhatsApp</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
