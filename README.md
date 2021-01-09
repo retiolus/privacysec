@@ -66,31 +66,42 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Blender](https://www.blender.org/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Blender is the free and [open source](https://developer.blender.org/diffusion/) 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+
 ## <span style="color:firebrick">Adobe Audition</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Audacity](https://www.audacityteam.org) ||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as [open source](https://github.com/audacity/audacity).|
+
 ## <span style="color:firebrick">Adobe Dreamweaver</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 - *See [Microsoft Visual Studio](#microsoft-visual-studio)*
 ## <span style="color:firebrick">Adobe Illustrator</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Inkscape](https://inkscape.org/) | |![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Free and [open-source](https://gitlab.com/inkscape/inkscape) vector graphics editor used to create vector images, primarily in Scalable Vector Graphics format. |
+
 ## <span style="color:firebrick">Adobe Photoshop</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Android
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/)[![F-Droid](https://img.shields.io/f-droid/v/org.catrobat.paintroid?style=flat-square)](https://f-droid.org/en/packages/org.catrobat.paintroid/)||Paintroid (or Pocket Paint) is an [open-source](https://github.com/Catrobat/Paintroid) graphical paint editor App, that, among others, allows setting parts of pictures to transparent, insert Text / Images, add Layers, use Color filling and picking tools, rotate, resize and position elements...|
 | [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)[![F-Droid](https://img.shields.io/f-droid/v/com.jarsilio.android.scrambledeggsif?style=flat-square)](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)||Remove Exif data from pictures before sharing them.|
 |[Imagepipe](https://codeberg.org/Starfish/Imagepipe)[![F-Droid](https://img.shields.io/f-droid/v/de.kaffeemitkoffein.imagepipe?style=flat-square)](https://f-droid.org/en/packages/de.kaffeemitkoffein.imagepipe/)||Reduces image size and removes exif-tags when sharing images on android devices.|
+
 #### Desktop
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [GIMP](https://www.gimp.org/)||![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its [source code](https://gitlab.gnome.org/GNOME/gimp) and distribute your changes. |
@@ -98,12 +109,15 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Adobe Premiere Pro</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[Kdenlive](https://kdenlive.org/en/toolbox/)|| ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Intuitive and powerful [open-source](https://invent.kde.org/multimedia/kdenlive) multi-track video editor compatible with latest video technologies. Most of the video processing is done by the MLT Framework, which relies on many other open source projects like FFmpeg, frei0r, movit, ladspa, sox, etc.|
 |[Shotcut](https://www.shotcut.org/)|| ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Shotcut is a free, [open source](https://github.com/mltframework/shotcut), cross-platform, non-linear video editor.|
+
 ## <span style="color:firebrick">Android/Fushsia</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |     | Ubuntu, but for phones. |
@@ -119,6 +133,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Android home screen launchers</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | [Open-source](https://github.com/amirzaidi/Shade) Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
@@ -127,17 +142,18 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
 
 
-## <span style="color:firebrick">Android Messages</span> (specifically SMS/MMS, not IM)
+## <span style="color:firebrick">Android Messages</span>(specifically SMS/MMS, not IM)
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | [Open-source](https://github.com/moezbhatti/qksms). Very clean and feature rich SMS app. Available on F-Droid. |
 | [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | [Open-source](https://silence.im/contribute/) and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
 | [Signal](https://signal.org/) |  | Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 
-
 ## <span style="color:firebrick">Android Studio</span> (not specifically for Android development, just in general)
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
@@ -145,9 +161,9 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Emacs](https://www.gnu.org/software/emacs/) |  | Another [open-source](https://github.com/emacs-mirror/emacs) text editor. Thanks @moon-chilled |
 | [Atom](https://atom.io/) |  | Atom is a free and [open-source](https://github.com/atom/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys |
 
-
 ## <span style="color:firebrick">Android TV</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
@@ -155,6 +171,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Blogger/Sites</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Joomla](https://www.joomla.org/) |     | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
@@ -168,6 +185,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Calculator</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
@@ -176,6 +194,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Chromebook</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
@@ -184,6 +203,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Chromecast</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
@@ -191,6 +211,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Chrome OS</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [GalliumOS](https://galliumos.org/) |  | "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu. |
@@ -205,6 +226,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Clock</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch. |
@@ -213,6 +235,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 ## <span style="color:firebrick">Contacts</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
@@ -228,6 +251,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Gboard</span> (Google Keyboard)
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard?style=flat-square)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | [Open-source](https://github.com/AnySoftKeyboard/AnySoftKeyboard) keyboard. Available on F-Droid. |
@@ -238,17 +262,19 @@ No known alternatives.
 | [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 | [FlorisBoard](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard)||FlorisBoard is an [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy.|
 
-
-
 ## <span style="color:firebrick">Gmail</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
 | [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
 | [DeltaChat](https://delta.chat/) [![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
+
 #### Web-based
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Forward Email](https://forwardemail.net/) |     | A free and [open-source](https://github.com/forwardemail) email forwarding service focused on a user's right to privacy. |
@@ -271,18 +297,21 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [EthicalAds](https://www.ethicalads.io/) |     | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
 
 ## <span style="color:firebrick">Google Alerts</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
 
 ## <span style="color:firebrick">Google Analytics</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (thanks u/Newblik) |
@@ -302,6 +331,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Assistant</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
@@ -309,6 +339,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Authenticator</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | [Open-source](https://github.com/andOTP/andOTP) 2FA app. |
@@ -317,10 +348,11 @@ No known alternatives.
 | [Authenticator](https://mattrubin.me/authenticator/) |  | **iOS** - [Open-source](https://github.com/mattrubin/Authenticator) 2FA for iOS. (thanks u/SomeoneWannaBe) |
 | [Tofu](https://tofuauth.com) |  | **iOS** - [Open-source](https://github.com/calleerlandsson/tofu) 2FA for iOS. |
 
-
 ## <span style="color:firebrick">Google Calendar</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |     | Developed by Mozilla Foundation and [open-source](https://www.thunderbird.net/en-US/get-involved/). Integrates into Thunderbird and SeaMonkey. |
@@ -332,6 +364,7 @@ No known alternatives.
 | [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) |  | [Open-source](https://github.com/SimpleMobileTools/Simple-Calendar). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 
 #### Web-based
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
@@ -343,18 +376,23 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Camera</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | [Open-source](https://sourceforge.net/p/opencamera/code/ci/master/tree/) camera for Android. Thanks @je-vv |
 
 ## <span style="color:firebrick">Google Chrome</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Android
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/) |  | Privacy-focused/[open-source](https://github.com/bromite/bromite) build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
+
 #### Desktop
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
@@ -364,6 +402,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Classroom</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Moodle](https://moodle.org/) |     | Self-hosted [open-source](https://github.com/moodle/moodle) Classroom software for schools. Very powerful. Thanks @jankapunkt |
@@ -372,6 +411,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Docs/Sheets/Slides</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Applications (cloud)
 
 | Name | Eyes | Description |
@@ -400,6 +440,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Domains</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
@@ -408,6 +449,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Drive</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
 
 | Name | Eyes | Description |
@@ -433,6 +475,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Duo</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
@@ -441,6 +484,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Fonts</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | --- | --- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
@@ -449,12 +493,14 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Earth</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
 
 ## <span style="color:firebrick">Google Forms</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [BlockSurvey](https://blocksurvey.io/) |     | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
@@ -462,6 +508,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Groups</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Applications
 
 | Name | Eyes | Description |
@@ -480,6 +527,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Home</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Mycroft](https://mycroft.ai/) | **5-eyes** | [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
@@ -487,6 +535,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Keep</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
 
 | Name | Eyes | Description |
@@ -507,7 +556,9 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Maps/Stree View</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | [Open-source](https://gitlab.com/axet/omim) navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
@@ -525,7 +576,9 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google News</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | [Open-source](https://github.com/FredJul/Flym) Material Design RSS reader. |
@@ -541,12 +594,16 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Photos</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 ### Application
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
 | [Stingle Photos](https://stingle.org/) | **5-eyes** | A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage. |
+
 #### Web-based
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Photoprism](https://photoprism.pro/) |     | Self-hosted and [open-source](https://github.com/photoprism/photoprism) Personal Photo Management powered by Go and Google TensorFlow. |
@@ -561,6 +618,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Pixel/Nexus</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
@@ -569,6 +627,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Play Music, Movies, & TV</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
 
 | Name | Eyes | Description |
@@ -593,6 +652,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Play Services Framework</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
@@ -600,6 +660,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Play Store</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
@@ -615,6 +676,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">G suite (enterprise cloud)</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Nextcloud](https://www.nextcloud.com/) |     | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
@@ -622,6 +684,7 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Translate</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Web-based
 
 | Name | Eyes | Description |
@@ -631,12 +694,14 @@ No known alternatives.
 
 ## <span style="color:firebrick">Google Transit</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Transportr](https://transportr.app/) |     | An [open-source](https://github.com/grote/Transportr) Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
 
 ## <span style="color:firebrick">Instagram</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
 
 | Name | Eyes | Description |
@@ -650,56 +715,78 @@ No known alternatives.
 | --- | --- | --- |
 | [Pixelfed](https://pixelfed.org) |     | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc. |
 | [Bibliogram](https://bibliogram.art/)||Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.|
+
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 - *See [Google Docs](#google-docs)*
+- 
 ## <span style="color:firebrick">Microsoft OneDrive</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 - *See [Google Drive](#google-drive)*
+- 
 ## <span style="color:firebrick">Microsoft Teams</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Jitsi Meet](https://jitsi.org/jitsi-meet/) || ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> Jitsi is a collection of free and [open-source](https://github.com/jitsi/jitsi-meet) multiplatform voice, videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android. |
 | [Wire](https://wire.com/)![GitHub stars](https://img.shields.io/github/stars/wireapp/wire?style=flat-square)|| ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> Wire is the most secure collaboration platform featuring messenger, voice, video, conference calls, file-sharing, and external collaboration –all protected by the most secure end-to-end-encryption.|
+
 ## <span style="color:firebrick">Microsoft Visual Studio</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Atom](https://atom.io/) || ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Atom is a free and [open-source](https://github.com/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Javascript, and embedded Git Control, developed by GitHub. |
+
 ## <span style="color:firebrick">Reddit</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/LemmyNet/lemmy) - a federated reddit alternative|
 |[Infinity](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)[![F-Droid](https://img.shields.io/f-droid/v/ml.docilealligator.infinityforreddit?style=flat-square)](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)![GitHub stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely free and ad-less; you can browse Reddit without interruptions or distractions. Built by a passionate university student, Infinity is [open source](https://github.com/Docile-Alligator/Infinity-For-Reddit). |
 |[RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)![GitHub stars](https://img.shields.io/github/stars/QuantumBadger/RedReader?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />An unofficial, [open source](https://github.com/QuantumBadger/RedReader) Android client for Reddit.|
 |[Slide](https://f-droid.org/packages/me.ccrama.redditslide/)[![F-Droid](https://img.shields.io/f-droid/v/me.ccrama.redditslide?style=flat-square)](https://f-droid.org/en/packages/me.ccrama.redditslide/)![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Slide is an [open source](https://github.com/ccrama/Slide), ad free Reddit browser for Android. It is based around the [Java Reddit API Wrapper](https://github.com/thatJavaNerd/JRAW).|
+
 #### Web-based
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[Lemmy](https://github.com/LemmyNet/lemmy)![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat-square)||![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Lemmy is similar to sites like [Reddit](https://reddit.com/), [Lobste.rs](https://lobste.rs/), or [Hacker News](https://news.ycombinator.com/): you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the [Fediverse](https://en.wikipedia.org/wiki/Fediverse).|
+
 ## <span style="color:firebrick">Slack</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
+
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 #### Application
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[Twidere](https://f-droid.org/packages/org.mariotaku.twidere/)![GitHub stars](https://img.shields.io/github/stars/TwidereProject/Twidere-Android?style=flat-square)[![F-Droid](https://img.shields.io/f-droid/v/org.mariotaku.twidere?style=flat-square)](https://f-droid.org/en/packages/org.mariotaku.twidere/)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app. There is also TwidereX, currently in development, available for [Android](https://github.com/TwidereProject/TwidereX-Android) and [iOS](https://github.com/TwidereProject/TwidereX-iOS).|
+
 #### Web-based
+
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Mastodon](https://joinmastodon.org/)[![GitHub stars](https://img.shields.io/github/stars/tootsuite/mastodon?style=flat-square)](https://github.com/tootsuite/mastodon)|| Mastodon is software for web-based federated microblogging, intended to be an "actually viable alternative to Twitter". Users can post 500-character status messages which can optionally include images, topic tags, and linked mentions of other users. It is open source and there are a number of independent instances online in addition to the flagship at mastodon.social.|
 |[Pleroma](https://pleroma.social/)||Pleroma is a free, federated social networking server built on [open protocols](https://git.pleroma.social/pleroma/pleroma/). It is compatible with GNU Social, Mastodon, and many other ActivityPub implementations. |
 |[Nitter](https://nitter.net/)![GitHub stars](https://img.shields.io/github/stars/zedeus/nitter?style=flat-square)||Nitter is a free and [open source](https://github.com/zedeus/nitter) alternative Twitter front-end focused on privacy. |
 |[Yotter](https://yotter.xyz/)[![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)||Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts in a beautiful feed so you can stay up to date without compromising your privacy at all. |
+
 ## <span style="color:firebrick">WhatsApp</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
 
 #### Application
@@ -720,6 +807,7 @@ No known alternatives.
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) |  | Third-party Android client for Mumble. |
 | [Briar](https://briarproject.org/) |  | An [open-source](https://code.briarproject.org/briar/briar/tree/master) app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/). |
+
 #### Web-based
 
 | Name | Eyes | Description |
@@ -744,7 +832,6 @@ No known alternatives.
 | [FreeTube](https://freetubeapp.io/) ![GitHub stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](http://Invidio.us) API to serve content. |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
-
 #### Web-based
 
 | Name | Eyes | Description |
@@ -760,6 +847,7 @@ No known alternatives.
 | [Piped](https://github.com/TeamPiped/Piped) ![GitHub stars](https://img.shields.io/github/stars/TeamPiped/Piped?style=flat-square) |     | Yet another alternative frontend for YouTube. |
 
 ## <span style="color:firebrick">*Other*</span>
+
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and [open-source](https://github.com/blokadaorg/blokada)." Uses internal VPN on Android to block ads. |
@@ -767,6 +855,7 @@ No known alternatives.
 
 # Useful links, tools, and advice
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 ## Resources
 
 Everything you need to become a Privacy Wizard.
@@ -806,9 +895,9 @@ Everything you need to become a Privacy Wizard.
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
-
 ## Books 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Title | Published | Author |
 | ----- | --------- | ------ |
 | [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Edward Snowden |
@@ -817,18 +906,18 @@ Everything you need to become a Privacy Wizard.
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 
-
 ## Blog posts 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Title | Published | Author |
 | ----- | --------- | ------ |
 | [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational?style=flat-square) | Bennett Cyphers and Mitch Stoltz - EFF |
 | [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational?style=flat-square) | J. Nathan Matias |
 | [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
 
-
 ## News articles 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
 | Title | Published | Author |
 | ----- | --------- | ------ |
 | [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational?style=flat-square) | Robert Sher - Forbes |
