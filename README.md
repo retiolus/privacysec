@@ -787,6 +787,7 @@ No known alternatives.
 ## <span style="color:firebrick">WhatsApp</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
+- *[WhatsApp recently expanded on the "Information You Provide" section](https://outline.com/MdjvpZ) that goes into detail about how it uses and shares the information gathered from WhatsApp with other Facebook products or third-parties.*
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
 
 #### Application
@@ -828,8 +829,8 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | --- | --- | --- |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) ![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](http://Invidio.us) API to serve content. |
-| [FreeTube](https://freetubeapp.io/) ![GitHub stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](http://Invidio.us) API to serve content. |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) ![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
+| [FreeTube](https://freetubeapp.io/) ![GitHub stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
 #### Web-based
@@ -840,7 +841,7 @@ No known alternatives.
 | [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
 | [DTube](https://d.tube/) |     | Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS. |
 | [Bit.tube](https://bit.tube/) |     | Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323) |
-| [Invidious](https://invidio.us/) ![GitHub stars](https://img.shields.io/github/stars/iv-org/invidious?style=flat-square) |     | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
+| [Invidious](https://github.com/iv-org/invidious) ![GitHub stars](https://img.shields.io/github/stars/iv-org/invidious?style=flat-square) |     | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
 | [Hooktube](https://hooktube.com/) |     | A slightly better way to use actual YouTube. (Use as a "last resort") |
 | [LBRY](https://lbry.com/) |     | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
 | [Yotter](https://github.com/ytorg/yotter)![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square) |     | Youtube and Twitter with privacy. Never share any of your data to Youtube, yet be able to watch Youtube videos. |
