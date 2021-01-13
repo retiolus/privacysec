@@ -786,8 +786,8 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 ## <span style="color:firebrick">WhatsApp</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
-- *[WhatsApp recently expanded on the "Information You Provide" section](https://outline.com/MdjvpZ) that goes into detail about how it uses and shares the information gathered from WhatsApp with other Facebook products or third-parties.*
-- *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
+- *[WhatsApp a récemment développé la section "Informations que vous fournissez"](https://outline.com/MdjvpZ) qui explique en détail comment elle utilise et partage les informations recueillies auprès de WhatsApp avec d'autres produits Facebook ou des tiers.*
+- *Voir [cet article](https://outline.com/BK8f7h) pour savoir pourquoi vous ne devriez PAS utiliser WhatsApp (si quelqu'un a un meilleur lien linéaire, cela serait très apprécié).*
 
 #### Application
 
@@ -826,11 +826,11 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 
 #### Applications
 
-| Nom                                                                                                                                            | Yeux | Description                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) ![Étoiles GitHub](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square) |      | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
-| [FreeTube](https://freetubeapp.io/) ![Étoiles GitHub](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square)              |      | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
-| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)                                      |      | Veuillez lire le post sur XDA avant de décider si l'utiliser ou pas.                                                                                                |
+| Nom                                                                                                                                            | Yeux | Description                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) ![Étoiles GitHub](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square) |      | Client YouTube pour bureau [open source](https://github.com/FreeTubeApp/FreeTube) qui utilise l'API [Invidio.us](https://github.com/iv-org/invidious) pour diffuser le contenu. |
+| [FreeTube](https://freetubeapp.io/) ![Étoiles GitHub](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square)              |      | Client YouTube pour bureau [open source](https://github.com/FreeTubeApp/FreeTube) qui utilise l'API [Invidio.us](https://github.com/iv-org/invidious) pour diffuser le contenu. |
+| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)                                      |      | Veuillez lire le post sur XDA avant de décider si l'utiliser ou pas.                                                                                                            |
 
 #### Basé sur Web
 
