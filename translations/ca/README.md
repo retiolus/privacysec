@@ -1,19 +1,19 @@
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
-### *I don't have anything to hide, but I don't have anything to show you either.*
+### *No tinc res a amagar, però tampoc tinc res a mostrar-te.*
 
-Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
-*Based on data from:*
+*Basat en les dades de:*
 - *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
 - *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
 - *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
 - *[https://github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
 - *[https://github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
-# Index
+# Índex
 
-1. [Browser extensions](#browser-extensions)
-2. **[Replacements/alternatives](#replacementsalternatives)**
+1. [Extensions del navegador](#browser-extensions)
+2. **[Reemplaçaments/alternatives](#replacementsalternatives)**
     1. [Adobe](#adobe-after-effects)
     2. [Android](#androidfushsia)
     3. [Google](#bloggersites)
@@ -22,9 +22,9 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
     6. [Reddit](#reddit)
     7. [Twitter](#twitter)
     8. [WhatsApp](#whatsapp)
-3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
-    1. [Resources](#resources)
-    2. [Books](#books)
+3. [Enllaços útils, eines i consells](#useful-links-tools-and-advice)
+    1. [Recursos](#resources)
+    2. [Llibres](#books)
     3. [Blog posts](#blog-posts)
     4. [News articles](#news-articles)
 
