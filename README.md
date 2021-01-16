@@ -674,24 +674,6 @@ No known alternatives.
 
 - *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
-## <span style="color:firebrick">Google Search</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
-| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
-| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
-| [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
-| [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
-| [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
-| [Swisscows](https://swisscows.ch) |  | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting. |
-| [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
-| [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon |
-| [Cyberd](https://cyber.page/) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
-| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely [open-source](https://gitlab.com/infinitysearch/infinity-search). |
-| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
-| [Whoogle Search](https://github.com/benbusby/whoogle-search) | | A self-hosted, ad-free, privacy-respecting Google metasearch engine. |
-
 ## <span style="color:firebrick">G suite (enterprise cloud)</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
@@ -766,7 +748,7 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | --- | --- | --- |
-|[lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/retiolus/privacysec/blob/main/README.md#web-based-11) - a federated reddit alternative|
+|[lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/LemmyNet/lemmy) - a federated reddit alternative|
 |[Infinity](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)[![F-Droid](https://img.shields.io/f-droid/v/ml.docilealligator.infinityforreddit?style=flat-square)](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)![GitHub stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely free and ad-less; you can browse Reddit without interruptions or distractions. Built by a passionate university student, Infinity is [open source](https://github.com/Docile-Alligator/Infinity-For-Reddit). |
 |[RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)![GitHub stars](https://img.shields.io/github/stars/QuantumBadger/RedReader?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />An unofficial, [open source](https://github.com/QuantumBadger/RedReader) Android client for Reddit.|
 |[Slide](https://f-droid.org/packages/me.ccrama.redditslide/)[![F-Droid](https://img.shields.io/f-droid/v/me.ccrama.redditslide?style=flat-square)](https://f-droid.org/en/packages/me.ccrama.redditslide/)![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Slide is an [open source](https://github.com/ccrama/Slide), ad free Reddit browser for Android. It is based around the [Java Reddit API Wrapper](https://github.com/thatJavaNerd/JRAW).|
@@ -960,7 +942,3 @@ Everything you need to become a Privacy Wizard.
 | [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr) | ![Published](https://img.shields.io/badge/2019--08--13-informational?style=flat-square) | Nitasha Tiku - WIRED |
 | [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh) | ![Published](https://img.shields.io/badge/2020--01--23-informational?style=flat-square) | Natasha Lomas - TechCrunch |
 | [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational?style=flat-square) | Shoshana Zuboff - New York Times |
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/retiolus/privacysec.svg)](https://starchart.cc/retiolus/privacysec)
