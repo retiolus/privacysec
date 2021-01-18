@@ -4,9 +4,9 @@
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *Je n'ai rien à cacher, mais je n'ai rien à vous montrer non plus.*
 
-Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
-*Based on data from:*
+*Basé sur les données de :*
 - *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
 - *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
 - *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
@@ -95,7 +95,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 ## <span style="color:firebrick">Adobe Dreamweaver</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
-- *See [Microsoft Visual Studio](#microsoft-visual-studio)*
+- *Voir [Microsoft Visual Studio](#microsoft-visual-studio)*
 ## <span style="color:firebrick">Adobe Illustrator</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
@@ -142,10 +142,10 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Replicant](https://replicant.us/)        | **5 yeux** | Distribution gratuite d'Android. Met l'accent sur la "liberté et la privacité/sécurité".                                                                                                                                                                             |
 | [CalyxOS](https://calyxos.org/)           |            | OS [open source](https://gitlab.com/CalyxOS) basé sur Android en mettant l'accent sur la sécurité et la confidentialité. Fournit une bonne combinaison de confidentialité et de sécurité ainsi que de facilité d'utilisation. Prise en charge optionnelle de MicroG. |
 
-- *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
-- *Please see Issue #55 for details on /e/.*
+- *Vous aurez besoin d'un périphérique rooté avec un chargeur de démarrage déverrouillé, ou d'un périphérique spécifique selon le système d'exploitation que vous voulez.*
+- *Veuillez consulter le ticket #55 pour plus de détails sur /e/.*
 
-## <span style="color:firebrick">Android home screen launchers</span>
+## <span style="color:firebrick">Lanceurs d'écran d'accueil Android</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                                | Yeux | Description                                                                                                                                                                                                                                                                |
@@ -156,7 +156,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/)                        |      | Rapide, [open-source](https://github.com/Neamar/KISS) et petit lanceur. KISS repose principalement sur une barre de recherche d'applications, ce qui facilite l'ouverture rapide des applications. Merci à @Glitchy-Tozier                                                 |
 
 
-## <span style="color:firebrick">Android Messages</span>(specifically SMS/MMS, not IM)
+## <span style="color:firebrick">Messages Android</span> (spécifiquement SMS/MMS, pas IM)
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                  | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -165,7 +165,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |      | [Open source](https://silence.im/contribute/) et utilise le protocole de chiffrement de Signal. Fonctionne parfaitement avec les SMS. Chiffrement de bout en bout avec d'autres utilisateurs de Silence. Disponible sur F-Droid.                                                                                                                                                                                                                                        |
 | [Signal](https://signal.org/)                                                                                                                                                        |      | Signal possède les fonctionnalités SMS/MMS sur Android. L'utiliser comme application SMS par défaut a l'avantage d'avoir votre SMS et votre service de messagerie en ligne intégré dans une seule application. Cela affichera également les statistiques dans l'application du nombre de messages que vous envoyez chiffrés, et vous proposera d'envoyer des invitations à vos contacts. Merci à @Glitchy-Tozier de suggérer Signal comme alternative pour les SMS/MMS. |
 
-## <span style="color:firebrick">Android Studio</span> (not specifically for Android development, just in general)
+## <span style="color:firebrick">Android Studio</span> (pas spécifiquement pour le développement Android, juste en général)
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                          | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                               |
