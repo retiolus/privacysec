@@ -1,10 +1,12 @@
+![Image](GAFAM.png)
+
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *No tinc res a amagar, però tampoc tinc res a mostrar-te.*
 
-Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
-*Basat en les dades de:*
+*Based on data from:*
 - *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
 - *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
 - *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
@@ -14,14 +16,15 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 1. [Extensions del navegador](#browser-extensions)
 2. **[Reemplaçaments/alternatives](#replacementsalternatives)**
-    1. [Adobe](#adobe-after-effects)
+    1. [Adobe](#adobe)
     2. [Android](#androidfushsia)
-    3. [Google](#bloggersites)
-    4. [Instagram](#instagram)
-    5. [Microsoft](#microsoft-office)
-    6. [Reddit](#reddit)
-    7. [Twitter](#twitter)
-    8. [WhatsApp](#whatsapp)
+    3. [Facebook](#facebook)
+    4. [Google](#google)
+    5. [Instagram](#instagram)
+    6. [Microsoft](#microsoft)
+    7. [Reddit](#reddit)
+    8. [Twitter](#twitter)
+    9. [WhatsApp](#whatsapp)
 3. [Enllaços útils, eines i consells](#useful-links-tools-and-advice)
     1. [Recursos](#resources)
     2. [Llibres](#books)
@@ -64,6 +67,17 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 |                          9                           | Denmark, France, Netherlands, Norway   |
 |                          14                          | Germany, Belgium, Italy, Sweden, Spain |
 
+## <span style="color:firebrick">Adobe</span>
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+
+- ### Adobe
+    - [After Effects](#adobe-after-effects)
+    - [Audition](#adobe-audition)
+    - [Dreamweaver](#adobe-dreamweaver)
+    - [Illustrator](#adobe-illustrator)
+    - [Photoshop](#adobe-photoshop)
+    - [Premiere Pro](#adobe-premiere-pro)
+
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
@@ -79,11 +93,11 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Audacity](https://www.audacityteam.org) |      | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br />Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as [open source](https://github.com/audacity/audacity). |
 
 ## <span style="color:firebrick">Adobe Dreamweaver</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *See [Microsoft Visual Studio](#microsoft-visual-studio)*
 ## <span style="color:firebrick">Adobe Illustrator</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                               | Ulls | Descripció                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -225,7 +239,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Any other form of Linux](https://www.linuxfoundation.org/) |            | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro és objectivament molt més fàcil de posar en marxa que Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (gràcies u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 ## <span style="color:firebrick">Clock</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                               | Ulls | Descripció                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -243,10 +257,20 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |      | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (gràcies u/consentio)                                                          |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/)                                                                        |      | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.                              |
 
-## <span style="color:firebrick">FitBit</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index) No known alternatives.
+## <span style="color:firebrick">Facebook</span>
+[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Gràcies @ribtoks*
+- ### Facebook
+    - [Instagram](#istagram)
+    - [Twitter](#twitter)
+    - [WhatsApp](#whatsapp)
+
+## <span style="color:firebrick">FitBit</span>
+[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+No known alternatives.
+
+- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 ## <span style="color:firebrick">Gboard</span> (Google Keyboard)
 [![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -293,6 +317,50 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Mailfence](https://www.mailfence.com)                              | **14 ulls** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Gràcies @resto1231 |
 | [CTemplar](https://ctemplar.com/)                                   |             | Privacy-focused email provider located in Iceland.                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [Anonaddy](https://anonaddy.com/)                                   | **9 ulls**  | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).                                                                                                                                                                                                                                                                         |
+
+## <span style="color:firebrick">Google</span>
+[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Google
+    - [Blogger](#bloggersites)
+    - [Chromebook](#chromebook)
+    - [Chromecast](#chromecast)
+    - [Chrome OS](#chrome-os)
+    - [FitBit](#fitbit)
+    - [Gboard](#gboard)
+    - [Gmail](#gmail)
+    - [Google Ads/AdMob/AdSense](#google-adsadmobadsense)
+    - [Google Alerts](#google-alerts)
+    - [Google Analytics](#google-analytics)
+    - [Google Assistant](#google-assistant)
+    - [Google Authenticator](#google-authenticator)
+    - [Google Calendar](#google-calendar)
+    - [Google Camera](#google-camera)
+    - [Google Chrome](#google-chrome)
+    - [Google Classroom](#google-classroom)
+    - [Google Docs/Sheets/Slides](#google-docssheetsslides)
+    - [Google Domains](#google-domains)
+    - [Google Drive](#google-drive)
+    - [Google Duo](#google-duo)
+    - [Google Fonts](#google-fonts)
+    - [Google Earth](#google-earth)
+    - [Google Forms](#google-forms)
+    - [Google Groups](#google-groups)
+    - [Google Home](#google-home)
+    - [Google Keep](#google-keep)
+    - [Google Maps/Street View](#google-mapsstreet-view)
+    - [Google News](#google-news)
+    - [Google Photos](#google-photos)
+    - [Google Pixel/Nexus](#google-pixelnexus)
+    - [Google Play Music, Movies, & TV](#google-play-music-movies--tv)
+    - [Google Play Services Framework](#google-play-services-framework)
+    - [Google Play Store](#google-play-store)
+    - [Google Search](#google-search)
+    - [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
+    - [Google Translate](#google-translate)
+    - [Google Transit](#google-transit)
+    - [Wear Os](#wear-os)
+    - [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -409,7 +477,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Canvas](https://www.instructure.com/canvas) |      | Paid service by Instructure. Also available as a self-hosted, [open-source](https://github.com/instructure/canvas-lms) option. To ensure privacy, use the self-hosted option. |
 
 ## <span style="color:firebrick">Google Docs/Sheets/Slides</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 #### Applications (cloud)
 
@@ -438,7 +506,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Arcane Office](https://arcaneoffice.com/)                                     |             | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Gràcies @taraletti |
 
 ## <span style="color:firebrick">Google Domains</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 | Nom                                             | Eyes        | Descripció                                                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -447,7 +515,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Orangewebsite](https://www.orangewebsite.com/) |             | An Iceland-based freedom of speech web hosting provider. En realitat mai demanen el teu nom, almenys quan pagues en Bitcoin.                                                                                                                                                                                                                               |
 
 ## <span style="color:firebrick">Google Drive</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -473,7 +541,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Cryptomator](https://cryptomator.org/)                                                  |             | Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.                                                                          |
 
 ## <span style="color:firebrick">Google Duo</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                           | Eyes       | Descripció                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -482,7 +550,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 
 ## <span style="color:firebrick">Google Fonts</span>
-[![Tornar a dalt](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                          | Eyes       | Descripció                                                                                                                                                  |
 | ---------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -553,7 +621,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/)                                                 |      | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.                     |
 | [Notally](https://github.com/OmGodse/Notally)                                                                                                                                                         |      | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).                                          |
 
-## <span style="color:firebrick">Google Maps/Stree View</span>
+## <span style="color:firebrick">Google Maps/Street View</span>
 [![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
 #### Application
@@ -647,7 +715,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Airsonic](https://airsonic.github.io/) |      | Self-hosted [open-source](https://github.com/airsonic/airsonic) media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
-- *Gràcies a u/eA8KESARaW6iqCpHsbE4 per suggerir Jellyfin i assenyalar que Emby no és de codi obert.*
+- *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
 
 ## <span style="color:firebrick">Google Play Services Framework</span>
 [![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
@@ -733,6 +801,15 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Pixelfed](https://pixelfed.org)      |      | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.                                                                                                                                                                               |
 | [Bibliogram](https://bibliogram.art/) |      | Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. |
 
+## <span style="color:firebrick">Microsoft</span>
+[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+
+- ### Microsoft
+    - [Microsoft Office](#microsft-office)
+    - [Microsoft OneDrive](#microsoft-onedrive)
+    - [Microsoft Teams](#microsft-teams)
+    - [Microsoft Visual Studio](#microsoft-visual-studio)
+
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
 
@@ -744,7 +821,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 - *See [Google Drive](#google-drive)*
 
 ## <span style="color:firebrick">Microsoft Teams</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                          | Ulls | Descripció                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -752,7 +829,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Wire](https://wire.com/)![GitHub stars](https://img.shields.io/github/stars/wireapp/wire?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> Wire is the most secure collaboration platform featuring messenger, voice, video, conference calls, file-sharing, and external collaboration –all protected by the most secure end-to-end-encryption. |
 
 ## <span style="color:firebrick">Microsoft Visual Studio</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                      | Ulls | Descripció                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -784,7 +861,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers. |
 
 ## <span style="color:firebrick">Twitter</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -802,7 +879,7 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Yotter](https://yotter.xyz/)[![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)                     |      | Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts in a beautiful feed so you can stay up to date without compromising your privacy at all.                                                                                                                                                                                    |
 
 ## <span style="color:firebrick">WhatsApp</span>
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *[WhatsApp recently expanded on the "Information You Provide" section](https://outline.com/MdjvpZ) that goes into detail about how it uses and shares the information gathered from WhatsApp with other Facebook products or third-parties.*
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
@@ -835,12 +912,14 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                   | Ulls        | Descripció                                                                                                                                 |
 | ------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
 ## <span style="color:firebrick">YouTube</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -878,10 +957,10 @@ Mirall: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 Everything you need to become a Privacy Wizard.
 
-- [Privacy Tools](https://www.privacytools.io/) (gràcies u/yieldingTemporarily)
-- [ethical.net](https://ethical.net/) (gràcies u/yieldingTemporarily)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. També dóna un cop d'ull a [Switching.software](https://switching.software/) (gràcies @mynamesleon)
-- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Gràcies @NicolasPA
+- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
+- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
@@ -891,7 +970,7 @@ Everything you need to become a Privacy Wizard.
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
 - Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [Què són els 5, 9 i 14 ulls?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [What is Tor and should I use it?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
@@ -900,22 +979,22 @@ Everything you need to become a Privacy Wizard.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
 - [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
-- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Gràcies @resynth1943)
+- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Thanks @resynth1943)
 - What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
-- [Això](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) és una guia realment bona per configurar una estació de treball de Linux supersegura (gràcies u/aoeudhtns)
-- [A website to raise awareness of online privacy](https://theytrackyou.com/). Aquí hi ha molts bons consells (gràcies u/brais33)
-- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (gràcies u/rightknobhead)
-- [Guia de privadesa de Windows 10](https://fdossena.com/?p=w10debotnet/index_1903.frag) (gràcies de nou u/rightknobhead)
-- Comprova [Prism Break](https://prism-break.org/en/) (gràcies u/FrontierPsycho)
-- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Gràcies u/wesaphzt
+- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
+- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
+- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
+- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
+- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
+- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
-- Dóna un cop d'ull a [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) i [aquesta guia d'aprenentatge](https://github.com/adolfintel/Windows10-Privacy) per a més consells sobre Windows 10 (gràcies u/rudolf323)
+- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 - [Tracking Exposed](https://tracking.exposed), fight for a web that is home for many, not property of the few!
 
 ## Books
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title                                                                                                                                             | Published                                                                       | Author          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------- |
@@ -926,7 +1005,7 @@ Everything you need to become a Privacy Wizard.
 | [Zucked](https://www.zuckedbook.com/)                                                                                                             | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee   |
 
 ## Blog posts
-[![Tornar a dalt](https://img.shields.io/badge/Tornar%20a%20dalt-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title                                                                                                                                                  | Published                                                                               | Author                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | -------------------------------------- |

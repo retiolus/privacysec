@@ -1,3 +1,5 @@
+![Image](GAFAM.png)
+
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *Je n'ai rien à cacher, mais je n'ai rien à vous montrer non plus.*
@@ -14,14 +16,15 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 
 1. [Extensions de navigateur](#browser-extensions)
 2. **[Remplacements/alternatives](#replacementsalternatives)**
-    1. [Adobe](#adobe-after-effects)
+    1. [Adobe](#adobe)
     2. [Android](#androidfushsia)
-    3. [Google](#bloggersites)
-    4. [Instagram](#instagram)
-    5. [Microsoft](#microsoft-office)
-    6. [Reddit](#reddit)
-    7. [Twitter](#twitter)
-    8. [WhatsApp](#whatsapp)
+    3. [Facebook](#facebook)
+    4. [Google](#google)
+    5. [Instagram](#instagram)
+    6. [Microsoft](#microsoft)
+    7. [Reddit](#reddit)
+    8. [Twitter](#twitter)
+    9. [WhatsApp](#whatsapp)
 3. [Liens, outils et conseils utiles](#useful-links-tools-and-advice)
     1. [Ressources](#resources)
     2. [Livres](#books)
@@ -63,6 +66,17 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 |                          5                           | Australie, Canada, Nouvelle-Zélande, Royaume-Uni, États-Unis |
 |                          9                           | Danemark, France, Pays-Bas, Norvège                          |
 |                          14                          | Allemagne, Belgique, Italie, Suède, Espagne                  |
+
+## <span style="color:firebrick">Adobe</span>
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+
+- ### Adobe
+    - [After Effects](#adobe-after-effects)
+    - [Audition](#adobe-audition)
+    - [Dreamweaver](#adobe-dreamweaver)
+    - [Illustrator](#adobe-illustrator)
+    - [Photoshop](#adobe-photoshop)
+    - [Premiere Pro](#adobe-premiere-pro)
 
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -129,7 +143,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [CalyxOS](https://calyxos.org/)           |            | OS [open source](https://gitlab.com/CalyxOS) basé sur Android en mettant l'accent sur la sécurité et la confidentialité. Fournit une bonne combinaison de confidentialité et de sécurité ainsi que de facilité d'utilisation. Prise en charge optionnelle de MicroG. |
 
 - *Vous aurez besoin d'un périphérique rooté avec un chargeur de démarrage déverrouillé, ou d'un périphérique spécifique selon le système d'exploitation que vous voulez.*
-- *Veuillez consulter l'Issue #55 pour plus de détails sur /e/.*
+- *Veuillez consulter le ticket #55 pour plus de détails sur /e/.*
 
 ## <span style="color:firebrick">Lanceurs d'écran d'accueil Android</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -224,8 +238,8 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [GhostBSD](https://ghostbsd.org/)                              |            | Il s'agit d'un OS [open-source](https://github.com/GhostBSD) sécurisé basé sur FreeBSD, préconfiguré pour être un environnement de bureau sain pour tous les utilisateurs.                                                                                                                                                                                                                                                                                                                                          |
 | [Toute autre forme de Linux](https://www.linuxfoundation.org/) |            | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) ou [Manjaro](https://manjaro.org/) (Manjaro est objectivement beaucoup plus facile à faire fonctionner que Arch) ; [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (merci à u/privacyfreak555) ; [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
-## <span style="color:firebrick">Horloge</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+## <span style="color:firebrick">Clock</span>
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                               | Yeux | Description                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -243,12 +257,22 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |      | Contacts [open source](https://gitlab.com/sultanahamer/OpenContacts/). (merci à u/consentio)                                                       |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/)                                                                        |      | Sécurisé, chiffré de bout en bout et synchronisation [open-source](https://github.com/etesync) pour vos contacts, calendriers et tâches.           |
 
+## <span style="color:firebrick">Facebook</span>
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+
+- ### Facebook
+    - [Instagram](#istagram)
+    - [Twitter](#twitter)
+    - [WhatsApp](#whatsapp)
+
 ## <span style="color:firebrick">FitBit</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index) Aucune alternative connue.
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+
+Aucune alternative connue.
 
 - *En raison de l'[acquisition récente de FitBit](https://outline.com/tsJCYN) par Google, il est recommandé d'éviter d'utiliser FitBit. À la place, regardez cette [liste de montres intelligentes](https://asteroidos.org/install/) prise en charge par Asteroid OS (Voir Wear OS dans [Systèmes d'exploitation](#operating-systems)). Merci à @ribtoks*
 
-## <span style="color:firebrick">Gboard</span> (Google Keyboard)
+## <span style="color:firebrick">Gboard</span> (clavier Google)
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                                                                 | Yeux | Description                                                                                                                                                                                                                                                                                      |
@@ -293,6 +317,50 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Mailfence](https://www.mailfence.com)                              | **14 yeux** | Un fournisseur de messagerie sécurisé et privé comme Protonmail et Tutanota. Il n'y a pas de Google Analytics ni de cookies cachés. Il existe des options pour payer anonymement via la cryptomonnaie. Il propose un large éventail d'outils de collaboration, tels que les groupes, le calendrier, les contacts, les documents avec espace d'édition. Offre des plans gratuits, payants et "freemium". Vous pouvez payer avec des crypto-monnaies et a un [bon de souscription](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Merci à @resto1231 |
 | [CTemplar](https://ctemplar.com/)                                   |             | Fournisseur de courrier électronique axé sur la protection de la vie privée en Islande.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [Anonaddy](https://anonaddy.com/)                                   | **9 yeux**  | Service [open source](https://github.com/anonaddy/anonaddy) de transfert anonyme de courriel. Les e-mails transmis peuvent être chiffrés (OpenPGP) pour empêcher Google de les lire. Accepte les cryptomonnaies (y compris Monero).                                                                                                                                                                                                                                                                                                                                      |
+
+## <span style="color:firebrick">Google</span>
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+
+- ### Google
+    - [Blogger](#bloggersites)
+    - [Chromebook](#chromebook)
+    - [Chromecast](#chromecast)
+    - [Chrome OS](#chrome-os)
+    - [FitBit](#fitbit)
+    - [Gboard](#gboard)
+    - [Gmail](#gmail)
+    - [Google Ads/AdMob/AdSense](#google-adsadmobadsense)
+    - [Google Alerts](#google-alerts)
+    - [Google Analytics](#google-analytics)
+    - [Google Assistant](#google-assistant)
+    - [Google Authenticator](#google-authenticator)
+    - [Google Calendar](#google-calendar)
+    - [Google Camera](#google-camera)
+    - [Google Chrome](#google-chrome)
+    - [Google Classroom](#google-classroom)
+    - [Google Docs/Sheets/Slides](#google-docssheetsslides)
+    - [Google Domains](#google-domains)
+    - [Google Drive](#google-drive)
+    - [Google Duo](#google-duo)
+    - [Google Fonts](#google-fonts)
+    - [Google Earth](#google-earth)
+    - [Google Forms](#google-forms)
+    - [Google Groups](#google-groups)
+    - [Google Home](#google-home)
+    - [Google Keep](#google-keep)
+    - [Google Maps/Street View](#google-mapsstreet-view)
+    - [Google News](#google-news)
+    - [Google Photos](#google-photos)
+    - [Google Pixel/Nexus](#google-pixelnexus)
+    - [Google Play Music, Movies, & TV](#google-play-music-movies--tv)
+    - [Google Play Services Framework](#google-play-services-framework)
+    - [Google Play Store](#google-play-store)
+    - [Google Search](#google-search)
+    - [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
+    - [Google Translate](#google-translate)
+    - [Google Transit](#google-transit)
+    - [Wear OS](#wear-os)
+    - [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -348,7 +416,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Tofu](https://tofuauth.com)                                                                                                                                                                                              |      | **iOS** - 2FA [open source](https://github.com/calleerlandsson/tofu) pour iOS.                                                              |
 
 ## <span style="color:firebrick">Google Calendar</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -374,14 +442,14 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Mailfence Calendar](https://www.mailfence.com)     | **14 yeux** | Prise en charge de l'importation vCal/iCal et de l'exportation, est aussi accessible en utilisant CalDAV. Les utilisateurs peuvent partager leurs calendriers avec les membres de leur groupe et peuvent également créer des sondages.                                                                                                                                        |
 
 ## <span style="color:firebrick">Google Camera</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                                        | Yeux | Description                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------ |
 | [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |      | Caméra [open source](https://sourceforge.net/p/opencamera/code/ci/master/tree/) pour Android. Merci à @je-vv |
 
 ## <span style="color:firebrick">Google Chrome</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Android
 
@@ -400,7 +468,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Tor Browser](https://www.torproject.org/download/)                 |            | Navigateur basé sur Firefox routé à travers le réseau [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). A automatiquement quelques extensions de confidentialité installées (comme HTTPS Everywhere). [Lisez cet article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) pour plus d'informations sur son fonctionnement et les avantages de Tor. Disponible pour Windows, Linux, macOS et Android.                                                                                                                                                                                                                                                             |
 
 ## <span style="color:firebrick">Google Classroom</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                          | Yeux | Description                                                                                                                                                                                                              |
 | -------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -409,7 +477,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Canvas](https://www.instructure.com/canvas) |      | Service payant par Instructure. Aussi disponible en tant qu'option [open-source](https://github.com/instructure/canvas-lms) auto-hébergée. Pour assurer la protection de la vie privée, utilisez l'option auto-hébergée. |
 
 ## <span style="color:firebrick">Google Docs/Sheets/Slides</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications (cloud)
 
@@ -438,7 +506,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Arcane Office](https://arcaneoffice.com/)                                     |             | Une suite bureautique décentralisée avec une haute sécurité et une connaissance nulle de vos données. Avec Arcane Office, vous avez un maximum de contrôle sur vos affaires personnelles. Éditeur complet de documents et de feuilles de calcul en ligne. Stockage sécurisé pour enregistrer vos photos. Le tout est gratuit pour un usage personnel. Merci à @taraletti |
 
 ## <span style="color:firebrick">Google Domains</span>
-[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                             | Yeux        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -447,7 +515,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Orangewebsite](https://www.orangewebsite.com/) |             | Un fournisseur islandais d'hébergement web pour la liberté d'expression. Ils ne vous demandent jamais vraiment votre nom, du moins lorsque vous payez en bitcoin.                                                                                                                                                                                                                                                                                                   |
 
 ## <span style="color:firebrick">Google Drive</span>
-[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -473,7 +541,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Cryptomator](https://cryptomator.org/)                                                  |             | Cryptomator crypte vos données rapidement et facilement. Ensuite, vous les téléchargez, protégés, sur votre service cloud favori.                                                                                                   |
 
 ## <span style="color:firebrick">Google Duo</span>
-[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                           | Yeux       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -482,7 +550,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 
 
 ## <span style="color:firebrick">Google Fonts</span>
-[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                          | Yeux       | Description                                                                                                                                                                            |
 | ---------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -491,7 +559,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Brick](https://brick.im)                                                    | **9 yeux** | Les polices [open source](https://github.com/alfredxing/brick) fonctionnent de manière très similaire à celles de Google. La plupart des polices sont plus agréables que Google Fonts. |
 
 ## <span style="color:firebrick">Google Earth</span>
-[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                 | Yeux | Description                                                                                                                                                           |
 | ------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -506,7 +574,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) |      | Sondages et questionnaires simples, auto-hébergés ! Il n'y a pas de masse d'options, mais seulement l'essentiel. Fonctionne bien sur mobile bien sûr. Les résultats sont visualisés et peuvent également être exportés en CSV dans le même format utilisé par Google Forms. Contrairement aux formulaires Google, Typeform, Doodle et autres, les informations et les réponses de l'enquête restent confidentielles sur votre instance.           |
 
 ## <span style="color:firebrick">Google Groups</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de pageRetour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -553,7 +621,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/)                                                 |      | [Open source](https://github.com/orgzly). Les notes sont stockées au format texte brut [Org mode](https://orgmode.org/). Prend en charge la recherche, les métadonnées et la synchronisation manuelle avec Dropbox ou le répertoire local, qui peuvent être synchronisés en utilisant par exemple Syncthing.                               |
 | [Notally](https://github.com/OmGodse/Notally)                                                                                                                                                         |      | Une belle application de notes, légères et minimalistes, sans tracker, ni publicité ni analytiques d'aucune sorte. Pas sur F-Droid, mais disponible sur [ce marché alternatif](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).                                                                                              |
 
-## <span style="color:firebrick">Google Maps/Stree View</span>
+## <span style="color:firebrick">Google Maps/Street View</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 #### Application
@@ -592,7 +660,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Miniflux](https://miniflux.app/)                                                        |      | Miniflux est un lecteur de flux minimaliste et opinionné. Complètement [open-source](https://github.com/miniflux), avec la suppression automatique des trackers de pixels. |
 
 ## <span style="color:firebrick">Google Photos</span>
-[![Retour en haut de pageRetour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 ### Application
 
@@ -733,18 +801,27 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Pixelfed](https://pixelfed.org)      |      | Alternative dématérialisée, fédérée et open source à Instagram avec des publications, des vidéos, des histoires, des tags, etc.                                                                                                                                                                                                    |
 | [Bibliogram](https://bibliogram.art/) |      | Bibliogramme est un site web [open-source](https://sr.ht/~cadence/bibliogram/) qui prend les données des vues du profil public d'Instagram et les met dans une page plus conviviale qui charge plus vite, donne des images téléchargeables, élimine les publicités, génère des flux RSS, et ne vous encourage pas à vous inscrire. |
 
+## <span style="color:firebrick">Microsoft</span>
+[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+
+- ### Microsoft
+    - [Microsoft Office](#microsft-office)
+    - [Microsoft OneDrive](#microsoft-onedrive)
+    - [Microsoft Teams](#microsft-teams)
+    - [Microsoft Visual Studio](#microsoft-visual-studio)
+
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 - *Voir [Google Docs](#google-docs)*
 
 ## <span style="color:firebrick">Microsoft OneDrive</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *Voir [Google Drive](#google-drive)*
 
 ## <span style="color:firebrick">Microsoft Teams</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                            | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -752,7 +829,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Wire](https://wire.com/)![Étoiles GitHub](https://img.shields.io/github/stars/wireapp/wire?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> Wire est la plateforme de collaboration la plus sécurisée avec messagerie, voix, vidéo, appels de conférence, partage de fichiers et collaboration externe – le tout protégé par le chiffrement de bout en bout le plus sécurisé. |
 
 ## <span style="color:firebrick">Microsoft Visual Studio</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                      | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -777,14 +854,14 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Lemmy](https://github.com/LemmyNet/lemmy)![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat-square) |      | ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Lemmy est similaire aux sites comme [Reddit](https://reddit.com/), [Lobste.rs](https://lobste.rs/), ou [Hacker News](https://news.ycombinator.com/) : vous vous abonnez aux forums qui vous intéressent, vous postez des liens et des discussions, puis vous votez, et vous les commentez. En coulisses, c'est très différent ; n'importe qui peut facilement faire fonctionner un serveur, et tous ces serveurs sont fédérés (pensez au courrier électronique), et connectés au même univers, appelé le [Fediverse](https://en.wikipedia.org/wiki/Fediverse). |
 
 ## <span style="color:firebrick">Slack</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                      | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost est un nuage privé, [open source](https://github.com/mattermost/mattermost-server), alternative de Slack construit pour les développeurs. |
 
 ## <span style="color:firebrick">Twitter</span>
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -835,12 +912,14 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 - *Telegram **retiré**. Voir le [problème #29](https://github.com/tycrek/degoogle/issues/29) de @arsv sur le [repo de @tycrek.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                   | Yeux        | Description                                                                                                                                               |
 | ------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AsteroidOS](https://asteroidos.org/) | **14 yeux** | L'alternative la plus propre (et la seule) [open source](https://github.com/AsteroidOS/) pour Wear OS. Assurez-vous d'acheter une montre qui le supporte! |
 
 ## <span style="color:firebrick">YouTube</span>
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -915,7 +994,7 @@ Tout ce dont vous avez besoin pour devenir un "Privacy Wizard".
 - [Tracking Exposed](https://tracking.exposed), battez-vous pour un web qui est la maison de beaucoup, et non la propriété de quelques-uns !
 
 ## Livres
-[![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Titre                                                                                                                                             | Publication                                                                       | Auteur          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |

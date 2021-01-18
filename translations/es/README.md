@@ -1,10 +1,12 @@
+![Image](GAFAM.png)
+
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *No tengo nada que ocultar, pero tampoco tengo nada que mostrar.*
 
-Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
-*Basado en los datos de:*
+*Based on data from:*
 - *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
 - *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
 - *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
@@ -14,14 +16,15 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 1. [Extensiones del navegador](#browser-extensions)
 2. **[Reemplazos/alternativas](#replacementsalternatives)**
-    1. [Adobe](#adobe-after-effects)
+    1. [Adobe](#adobe)
     2. [Android](#androidfushsia)
-    3. [Google](#bloggersites)
-    4. [Instagram](#instagram)
-    5. [Microsoft](#microsoft-office)
-    6. [Reddit](#reddit)
-    7. [Twitter](#twitter)
-    8. [WhatsApp](#whatsapp)
+    3. [Facebook](#facebook)
+    4. [Google](#google)
+    5. [Instagram](#instagram)
+    6. [Microsoft](#microsoft)
+    7. [Reddit](#reddit)
+    8. [Twitter](#twitter)
+    9. [WhatsApp](#whatsapp)
 3. [Enlaces, herramientas y consejos útiles](#useful-links-tools-and-advice)
     1. [Recursos](#resources)
     2. [Libros](#books)
@@ -63,6 +66,17 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 |                          5                           | Australia, Canada, New Zeland, UK, USA |
 |                          9                           | Denmark, France, Netherlands, Norway   |
 |                          14                          | Germany, Belgium, Italy, Sweden, Spain |
+
+## <span style="color:firebrick">Adobe</span>
+[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Adobe
+    - [After Effects](#adobe-after-effects)
+    - [Audition](#adobe-audition)
+    - [Dreamweaver](#adobe-dreamweaver)
+    - [Illustrator](#adobe-illustrator)
+    - [Photoshop](#adobe-photoshop)
+    - [Premiere Pro](#adobe-premiere-pro)
 
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -225,7 +239,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Any other form of Linux](https://www.linuxfoundation.org/) |            | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 ## <span style="color:firebrick">Clock</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nombre                                                                                                                                                                                            | Ojos | Descripción                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -243,8 +257,18 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |      | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio)                                                           |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/)                                                                        |      | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.                              |
 
+## <span style="color:firebrick">Facebook</span>
+[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Facebook
+    - [Instagram](#istagram)
+    - [Twitter](#twitter)
+    - [WhatsApp](#whatsapp)
+
 ## <span style="color:firebrick">FitBit</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index) No known alternatives.
+[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
@@ -293,6 +317,50 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Mailfence](https://www.mailfence.com)                              | **14 ojos** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/)                                   |             | Privacy-focused email provider located in Iceland.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Anonaddy](https://anonaddy.com/)                                   | **9 ojos**  | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).                                                                                                                                                                                                                                                                        |
+
+## <span style="color:firebrick">Google</span>
+[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Google
+    - [Blogger](#bloggersites)
+    - [Chromebook](#chromebook)
+    - [Chromecast](#chromecast)
+    - [Chrome OS](#chrome-os)
+    - [FitBit](#fitbit)
+    - [Gboard](#gboard)
+    - [Gmail](#gmail)
+    - [Google Ads/AdMob/AdSense](#google-adsadmobadsense)
+    - [Google Alerts](#google-alerts)
+    - [Google Analytics](#google-analytics)
+    - [Google Assistant](#google-assistant)
+    - [Google Authenticator](#google-authenticator)
+    - [Google Calendar](#google-calendar)
+    - [Google Camera](#google-camera)
+    - [Google Chrome](#google-chrome)
+    - [Google Classroom](#google-classroom)
+    - [Google Docs/Sheets/Slides](#google-docssheetsslides)
+    - [Google Domains](#google-domains)
+    - [Google Drive](#google-drive)
+    - [Google Duo](#google-duo)
+    - [Google Fonts](#google-fonts)
+    - [Google Earth](#google-earth)
+    - [Google Forms](#google-forms)
+    - [Google Groups](#google-groups)
+    - [Google Home](#google-home)
+    - [Google Keep](#google-keep)
+    - [Google Maps/Street View](#google-mapsstreet-view)
+    - [Google News](#google-news)
+    - [Google Photos](#google-photos)
+    - [Google Pixel/Nexus](#google-pixelnexus)
+    - [Google Play Music, Movies, & TV](#google-play-music-movies--tv)
+    - [Google Play Services Framework](#google-play-services-framework)
+    - [Google Play Store](#google-play-store)
+    - [Google Search](#google-search)
+    - [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
+    - [Google Translate](#google-translate)
+    - [Google Transit](#google-transit)
+    - [Wear Os](#wear-os)
+    - [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -553,7 +621,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/)                                                 |      | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.                     |
 | [Notally](https://github.com/OmGodse/Notally)                                                                                                                                                         |      | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).                                          |
 
-## <span style="color:firebrick">Google Maps/Stree View</span>
+## <span style="color:firebrick">Google Maps/Street View</span>
 [![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
@@ -733,6 +801,15 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Pixelfed](https://pixelfed.org)      |      | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.                                                                                                                                                                               |
 | [Bibliogram](https://bibliogram.art/) |      | Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. |
 
+## <span style="color:firebrick">Microsoft</span>
+[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Microsoft
+    - [Microsoft Office](#microsft-office)
+    - [Microsoft OneDrive](#microsoft-onedrive)
+    - [Microsoft Teams](#microsft-teams)
+    - [Microsoft Visual Studio](#microsoft-visual-studio)
+
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
@@ -744,7 +821,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 - *See [Google Drive](#google-drive)*
 
 ## <span style="color:firebrick">Microsoft Teams</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nombre                                                                                                       | Ojos | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -752,7 +829,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Wire](https://wire.com/)![GitHub stars](https://img.shields.io/github/stars/wireapp/wire?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> Wire is the most secure collaboration platform featuring messenger, voice, video, conference calls, file-sharing, and external collaboration –all protected by the most secure end-to-end-encryption. |
 
 ## <span style="color:firebrick">Microsoft Visual Studio</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nombre                   | Ojos | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -784,7 +861,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers. |
 
 ## <span style="color:firebrick">Twitter</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
 
@@ -802,7 +879,7 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Yotter](https://yotter.xyz/)[![GitHub stars](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)                     |      | Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts in a beautiful feed so you can stay up to date without compromising your privacy at all.                                                                                                                                                                                    |
 
 ## <span style="color:firebrick">WhatsApp</span>
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 - *[WhatsApp recently expanded on the "Information You Provide" section](https://outline.com/MdjvpZ) that goes into detail about how it uses and shares the information gathered from WhatsApp with other Facebook products or third-parties.*
 - *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
@@ -835,12 +912,14 @@ Espejo: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nombre                                | Ojos        | Descripción                                                                                                                                |
 | ------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
 ## <span style="color:firebrick">YouTube</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -880,7 +959,7 @@ Everything you need to become a Privacy Wizard.
 
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. También echa un vistazo a [Switching.software](https://switching.software/) (gracias @mynamesleon)
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
 - [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
@@ -891,7 +970,7 @@ Everything you need to become a Privacy Wizard.
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
 - Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [¿Qué son los 5 ojos, 9 ojos y 14 ojos?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [What is Tor and should I use it?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
@@ -915,7 +994,7 @@ Everything you need to become a Privacy Wizard.
 - [Tracking Exposed](https://tracking.exposed), fight for a web that is home for many, not property of the few!
 
 ## Books
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title                                                                                                                                             | Published                                                                       | Author          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------- |
@@ -926,7 +1005,7 @@ Everything you need to become a Privacy Wizard.
 | [Zucked](https://www.zuckedbook.com/)                                                                                                             | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee   |
 
 ## Blog posts
-[![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title                                                                                                                                                  | Published                                                                               | Author                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | -------------------------------------- |
