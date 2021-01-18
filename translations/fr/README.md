@@ -359,7 +359,7 @@ Aucune alternative connue.
     - [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
     - [Google Translate](#google-translate)
     - [Google Transit](#google-transit)
-    - [Wear Os](#wear-os)
+    - [Wear OS](#wear-os)
     - [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
@@ -590,7 +590,7 @@ Aucune alternative connue.
 | [Discourse](https://discourse.group/) | **5 yeux** | Discourse est la plate-forme de discussion 100% [open-source](https://github.com/discourse/discourse) construite pour la prochaine décennie d'Internet. Utilisez-le comme une liste de diffusion, un forum de discussion ou un salon de discussion de type long.                                                                                                  |
 | [Groups.io](https://groups.io/)       | **5 yeux** | un système de listes de courriels axé sur la protection de la vie privée qui ne vous suit ni vous, ni vos membres. N'est pas open source. Les données sont hébergées sur un serveur central, mais le serveur est chiffré. Possède des fonctionnalités modernes de groupe de courriels comme un wiki, des intégrations et la prise en charge de l'importation RSS. |
 
-- *Use other forum sites relating to specific topics. This is a very broad service.*
+- *Utilise d'autres sites de forum relatifs à des sujets spécifiques. Il s'agit d'un service très vaste.*
 
 ## <span style="color:firebrick">Google Home</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -714,8 +714,8 @@ Aucune alternative connue.
 | [Funkwhale](https://funkwhale.audio/)   |      | Service de musique autohébergé et décentralisé. Fournissez votre propre espace de musique. (merci à u/DashEquals)                                                                                                                                                                                         |
 | [Airsonic](https://airsonic.github.io/) |      | Streameur multimédia [open source](https://github.com/airsonic/airsonic) autohébergé. A des fonctionnalités pour le transcodage audio à la volée pour "pratiquement n'importe quel format audio". Vous pouvez également définir des limites de bande passante si vous le souhaitez. Semble très puissant. |
 
-- *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
-- *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
+- *Je ne peux plus recommander [Emby](https://emby.media/) car ils ne sont plus [open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
+- *Merci à u/eA8KESARaW6iqCpHsbE4 d'avoir suggéré Jellyfin et fait remarquer qu'Emby n'est pas open source.*
 
 ## <span style="color:firebrick">Google Play Services Framework</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -739,7 +739,7 @@ Aucune alternative connue.
 | [APKGrabber](https://github.com/hemker/apkgrabber)                                                                                                                                                                        |      | Fork de [APKUpdater](https://github.com/rumboalla/apkupdater). Les deux sont de bons outils pour éviter les magasins d'applications (sur Android).                                                                                                                                                                                                                                                                               |
 | [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663)                                                                                                               |      | Un autre client F-Droid, a potentiellement quelques bugs (merci à u/OfficialJohnGL4)                                                                                                                                                                                                                                                                                                                                             |
 
-- *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
+- *Lors de la recherche de remplacements, vérifiez les magasins alternatifs (comme F-Droid) avant de vérifier le Play Store.*
 
 ## <span style="color:firebrick">Google Search</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
@@ -829,7 +829,7 @@ Aucune alternative connue.
 | [Wire](https://wire.com/)![Étoiles GitHub](https://img.shields.io/github/stars/wireapp/wire?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> Wire est la plateforme de collaboration la plus sécurisée avec messagerie, voix, vidéo, appels de conférence, partage de fichiers et collaboration externe – le tout protégé par le chiffrement de bout en bout le plus sécurisé. |
 
 ## <span style="color:firebrick">Microsoft Visual Studio</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                      | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -879,10 +879,10 @@ Aucune alternative connue.
 | [Yotter](https://yotter.xyz/)[![Étoiles GitHub](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)](https://github.com/ytorg/yotter)                     |      | Yotter vous permet de suivre et de rassembler tout le contenu de vos comptes favoris Twitter et YouTube dans un beau fil pour que vous puissiez rester à jour sans compromettre votre vie privée.                                                                                                                                                                                                                           |
 
 ## <span style="color:firebrick">WhatsApp</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-- *[WhatsApp recently expanded on the "Information You Provide" section](https://outline.com/MdjvpZ) that goes into detail about how it uses and shares the information gathered from WhatsApp with other Facebook products or third-parties.*
-- *See [this article](https://outline.com/BK8f7h) for why you should NOT use WhatsApp (if someone has a better Outline link, that would be much appreciated).*
+- *[WhatsApp a récemment développé la section "Informations que vous fournissez"](https://outline.com/MdjvpZ) qui explique en détail comment elle utilise et partage les informations recueillies auprès de WhatsApp avec d'autres produits Facebook ou des tiers.*
+- *Voir [cet article](https://outline.com/BK8f7h) pour savoir pourquoi vous ne devriez PAS utiliser WhatsApp (si quelqu'un a un meilleur lien linéaire, cela serait très apprécié).*
 
 #### Application
 
@@ -909,17 +909,17 @@ Aucune alternative connue.
 | --------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Jitsi](https://jitsi.org/) | **5 yeux** | Jitsi est une plateforme de vidéoconférence sécurisée [open source](https://github.com/jitsi). Aucun compte n'est nécessaire pour l'utiliser, il suffit d'entrer un nom de salle pour rejoindre ou héberger une réunion. L'hôte est en mesure d'expulser les utilisateurs de l'appel. Fonctionne directement dans votre navigateur ou avec des applications disponibles pour iOS et Android. Il n'est pas nécessaire de s'auto-héberger, mais l'auto-hébergement est une option pour ceux qui le souhaitent. Très faible latence et facile à installer. Un serveur public gratuit est disponible sur [meet.jit.si](https://meet.jit.si). (serveur à **5 yeux**) |
 
-- ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
+- *Telegram **retiré**. Voir le [problème #29](https://github.com/tycrek/degoogle/issues/29) de @arsv sur le [repo de @tycrek.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                   | Yeux        | Description                                                                                                                                               |
 | ------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AsteroidOS](https://asteroidos.org/) | **14 yeux** | L'alternative la plus propre (et la seule) [open source](https://github.com/AsteroidOS/) pour Wear OS. Assurez-vous d'acheter une montre qui le supporte! |
 
 ## <span style="color:firebrick">YouTube</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -943,7 +943,7 @@ Aucune alternative connue.
 | [Yotter](https://github.com/ytorg/yotter)![Étoiles GitHub](https://img.shields.io/github/stars/ytorg/yotter?style=flat-square)             |            | Youtube et Twitter avec confidentialité. Ne partagez jamais aucune de vos données avec Youtube, mais soyez en mesure de regarder des vidéos Youtube.                                                                                                                                                                                                                                                                                                                                                                                         |
 | [Piped](https://github.com/TeamPiped/Piped) ![Étoiles GitHub](https://img.shields.io/github/stars/TeamPiped/Piped?style=flat-square)       |            | Encore un autre frontend alternatif pour YouTube.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## <span style="color:firebrick">*Other*</span>
+## <span style="color:firebrick">*Autres*</span>
 
 | Nom                                                                                                                                                                                                                                           | Yeux | Description                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -951,50 +951,50 @@ Aucune alternative connue.
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |      | GitHub README : Permet aux utilisateurs de surveiller et de contrôler la collecte de données masquée et répandue dans les applications mobiles à propos du comportement de l'utilisateur ("tracking"). Pour détecter le suivi, TrackerControl vérifie tout le trafic réseau par rapport à la liste noire de déconnexion, utilisée et approuvée par le navigateur Mozilla Firefox. Merci @E5dZEUpc3BKaJrHnQVZd5zE          |
 
 # Liens, outils et conseils utiles
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-## Resources
+## Ressources
 
-Everything you need to become a Privacy Wizard.
+Tout ce dont vous avez besoin pour devenir un "Privacy Wizard".
 
-- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
-- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
-- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
+- [Outils de confidentialité](https://www.privacytools.io/) (merci u/yieldingTemporarily)
+- [ethical.net](https://ethical.net/) (merci u/yieldingTemporarily)
+- [AlternativeTo](https://alternativeto.net/) - Trouver des alternatives pour les logiciels. Utilisé largement pour construire ce guide. Consultez aussi [Switching.software](https://switching.software/) (merci à @mynamesleon)
+- [Framasoft](https://framasoft.org/en/) - Beaucoup d'alternatives et de logiciels. Trop pour être intégrées dans la liste. Consultez également [ce lien](https://degooglisons-internet.org/en/). Merci @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
-- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
-- [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
-- Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
-- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
-- Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
-- [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
-- [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
-- [What is Tor and should I use it?](https://outline.com/JRCscH)
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Une liste de services de réseau de logiciels libres et d'applications web qui peuvent être hébergés localement. L'autohébergement (selfthosting) est le processus d'hébergement et de gestion des applications au lieu de louer des fournisseurs de Logiciel-comme-un-Service
+- [r/VPN](https://old.reddit.com/r/VPN/) - Lisez la barre latérale et le [wiki](https://old.reddit.com/r/VPN/wiki/index) pour en savoir plus sur pourquoi vous devriez envisager d'utiliser un VPN. J'utilise personnellement [Mullvad](https://mullvad.net) mais faites votre propre recherche avant de choisir.
+- [Quatre méthodes pour créer un mot de passe sécurisé dont vous vous souviendrez](https://outline.com/XuMTFA)
+- [Comment créer un mot de passe fort (et s'en souvenir)](https://outline.com/dqfuqL)
+- Utiliser un [gestionnaire de mots de passe](https://outline.com/NC69FD) tel que [Bitwarden](https://bitwarden.com)
+- Configurez [l'authentification multi-facteur/à deux facteurs](https://en.wikipedia.org/wiki/Multi-factor_authentication) sur autant de comptes que vous pouvez
+- Ne sauvegardez pas les mots de passe dans votre navigateur : [Effacer l'intégralité du cache de mots de passe](http://www.wikihow.com/Delete-Remembered-Passwords) une fois que vous avez configuré un gestionnaire de mots de passe.
+- [Supprimer les bloatwares d'Android (sans root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+- [Qu'est-ce que sont les 5 yeux, 9 yeux et 14 yeux?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [Outline](https://outline.com/) est un outil génial pour extraire tous les articles d'actualité (je l'ai déjà utilisé plusieurs fois dans ce guide). Parfois, il peut contourner les murs payants pour les sites de news "premium".
+- [Qu'est-ce que Tor et dois-je l'utiliser ?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
-- The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
-- Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
-- Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
-- [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
-- [Why you should put tape over your webcam](https://outline.com/fYCu98)
-- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Thanks @resynth1943)
-- What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
-- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
-- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
-- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
-- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
-- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
-- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
-- u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
-- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
-- [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
-- Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
-- [Tracking Exposed](https://tracking.exposed), fight for a web that is home for many, not property of the few!
+- L'EFF a un [excellent guide](https://ssd.eff.org/) sur la façon de rester en sécurité en ligne. Il est incroyablement utile et je suggère que tout le monde le lise.
+- Cliquez [ici](https://www.thewindowsclub.com/windows-10-telemetry) et [ici](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) pour obtenir des conseils sur la désactivation de la collecte de données de Windows 10.
+- Cliquez [ici](https://duckduckgo.com/newsletter) pour vous inscrire à la lettre d'information de DuckDuckGo, et [ici](https://spreadprivacy.com/) pour plus de conseils, articles et articles de blog de DuckDuckGo.
+- [Supprimer Facebook](https://deletefacebook.com/). Un autre guide peut être trouvé [ici](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
+- [Pourquoi vous devriez cacher votre webcam](https://outline.com/fYCu98)
+- [Qu'est-ce qu'un DNS et pourquoi devrais-je le changer ?](https://outline.com/8jsWXw) Utilisez [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) pour voir lequel est le plus rapide pour vous. (Merci à @resynth1943)
+- Qu'est-ce que le RGPD? [TechRadar](https://outline.com/6sjd76) et [The Guardian](https://outline.com/exmSpf)
+- [Ici](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) un très bon guide pour la configuration d'un poste de travail Linux super sécurisé (merci u/aoeudhtns)
+- [Un site Web pour sensibiliser la population à la vie privée en ligne](https://theytrackyou.com/). Beaucoup de bons conseils ici (merci u/brais33)
+- [Guide de confidentialité Android](https://gitlab.com/Attedz/AndroidPrivacyGuide) (merci u/rightknobhead)
+- [Guide de confidentialité Windows 10](https://fdossena.com/?p=w10debotnet/index_1903.frag) (merci encore u/rightknobhead)
+- Allez voir [Prism Break](https://prism-break.org/en/) (merci u/FrontierPsycho)
+- [Guide pour les utilisateurs de Linux](https://github.com/wesaphzt/block-all-google) sur le blocage de tout Google au niveau du réseau. Cela peut et va probablement briser d'autres alternatives qui dépendent de Google pour servir le contenu. Merci u/wesaphzt
+- u/wesaphzt a également fourni [ça](https://github.com/pyllyukko/user.js), [ça](https://ffprofile.com/), et encore [ça](https://www.privacytools.io/browsers/#about_config) pour "durcir" Firefox.
+- Consultez [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) et [ce tutoriel](https://github.com/adolfintel/Windows10-Privacy) pour encore plus de conseils sur Windows 10 (merci u/rudolf323)
+- [VirusTotal](https://www.virustotal.com/) vous permet de télécharger des fichiers et de les analyser contre plusieurs programmes antivirus à la fois. Très utile pour vérifier les faux négatifs. Malheureusement, Alphabet Inc possède VirusTotal mais il n'y a pas de bonnes alternatives.
+- Avez-vous déjà lu le [wiki](https://old.reddit.com/r/privacy/wiki/index)? Allez le faire.
+- [Tracking Exposed](https://tracking.exposed), battez-vous pour un web qui est la maison de beaucoup, et non la propriété de quelques-uns !
 
-## Books
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## Livres
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Titre                                                                                                                                             | Publication                                                                       | Auteur          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
@@ -1004,8 +1004,8 @@ Everything you need to become a Privacy Wizard.
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html)                                                                           | ![Publication](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu          |
 | [Zucked](https://www.zuckedbook.com/)                                                                                                             | ![Publication](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee   |
 
-## Blog posts
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## Articles de blog
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Titre                                                                                                                                                  | Publication                                                                               | Auteur                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------- |
@@ -1013,8 +1013,8 @@ Everything you need to become a Privacy Wizard.
 | [Quitter Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf)                          | ![Publication](https://img.shields.io/badge/2018--12--08-informational?style=flat-square) | J. Nathan Matias                      |
 | [Comment lutter contre Google AMP en tant qu'utilisateur web et développeur web](https://markosaric.com/google-amp/)                                   | ![Publication](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric                           |
 
-## News articles
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+## Articles d'actualité
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Titre                                                                                                                                                                                             | Publication                                                                               | Auteur                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------- |
