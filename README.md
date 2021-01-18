@@ -1,5 +1,3 @@
-![Image](GAFAM.png)
-
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
@@ -16,15 +14,14 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 1. [Browser extensions](#browser-extensions)
 2. **[Replacements/alternatives](#replacementsalternatives)**
-	1. [Adobe](#adobe)
+	1. [Adobe](#adobe-after-effects)
 	2. [Android](#androidfushsia)
-	3. [Facebook](#facebook)
-	4. [Google](#google)
-	5. [Instagram](#instagram)
-	6. [Microsoft](#microsoft)
-	7. [Reddit](#reddit)
-	8. [Twitter](#twitter)
-	9. [WhatsApp](#whatsapp)
+	3. [Google](#bloggersites)
+	4. [Instagram](#instagram)
+	5. [Microsoft](#microsoft-office)
+	6. [Reddit](#reddit)
+	7. [Twitter](#twitter)
+	8. [WhatsApp](#whatsapp)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
     1. [Resources](#resources)
     2. [Books](#books)
@@ -66,17 +63,6 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | 5 | Australia, Canada, New Zeland, UK, USA |
 | 9 | Denmark, France, Netherlands, Norway |
 | 14 | Germany, Belgium, Italy, Sweden, Spain |
-
-## <span style="color:firebrick">Adobe</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
-- ### Adobe
-	- [After Effects](#adobe-after-effects)
-	- [Audition](#adobe-audition)
-	- [Dreamweaver](#adobe-dreamweaver)
-	- [Illustrator](#adobe-illustrator)
-	- [Photoshop](#adobe-photoshop)
-	- [Premiere Pro](#adobe-premiere-pro)
 
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -257,17 +243,8 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio) |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks. |
 
-## <span style="color:firebrick">Facebook</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
-- ### Facebook
-	- [Instagram](#istagram)
-	- [Twitter](#twitter)
-	- [WhatsApp](#whatsapp)
-
 ## <span style="color:firebrick">FitBit</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
 No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
@@ -317,50 +294,6 @@ No known alternatives.
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/) |     | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
-
-## <span style="color:firebrick">Google</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
-- ### Google
-	- [Blogger](#bloggersites)
-	- [Chromebook](#chromebook)
-	- [Chromecast](#chromecast)
-	- [Chrome OS](#chrome-os)
-	- [FitBit](#fitbit)
-	- [Gboard](#gboard)
-	- [Gmail](#gmail)
-	- [Google Ads/AdMob/AdSense](#google-adsadmobadsense)
-	- [Google Alerts](#google-alerts)
-	- [Google Analytics](#google-analytics)
-	- [Google Assistant](#google-assistant)
-	- [Google Authenticator](#google-authenticator)
-	- [Google Calendar](#google-calendar)
-	- [Google Camera](#google-camera)
-	- [Google Chrome](#google-chrome)
-	- [Google Classroom](#google-classroom)
-	- [Google Docs/Sheets/Slides](#google-docssheetsslides)
-	- [Google Domains](#google-domains)
-	- [Google Drive](#google-drive)
-	- [Google Duo](#google-duo)
-	- [Google Fonts](#google-fonts)
-	- [Google Earth](#google-earth)
-	- [Google Forms](#google-forms)
-	- [Google Groups](#google-groups)
-	- [Google Home](#google-home)
-	- [Google Keep](#google-keep)
-	- [Google Maps/Street View](#google-mapsstreet-view)
-	- [Google News](#google-news)
-	- [Google Photos](#google-photos)
-	- [Google Pixel/Nexus](#google-pixelnexus)
-	- [Google Play Music, Movies, & TV](#google-play-music-movies--tv)
-	- [Google Play Services Framework](#google-play-services-framework)
-	- [Google Play Store](#google-play-store)
-	- [Google Search](#google-search)
-	- [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
-	- [Google Translate](#google-translate)
-	- [Google Transit](#google-transit)
-	- [Wear Os](#wear-os)
-	- [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -621,7 +554,7 @@ No known alternatives.
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
 
-## <span style="color:firebrick">Google Maps/Street View</span>
+## <span style="color:firebrick">Google Maps/Stree View</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
@@ -801,15 +734,6 @@ No known alternatives.
 | [Pixelfed](https://pixelfed.org) |     | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc. |
 | [Bibliogram](https://bibliogram.art/)||Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.|
 
-## <span style="color:firebrick">Microsoft</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
-
-- ### Microsoft
-	- [Microsoft Office](#microsft-office)
-	- [Microsoft OneDrive](#microsoft-onedrive)
-	- [Microsoft Teams](#microsft-teams)
-	- [Microsoft Visual Studio](#microsoft-visual-studio)
-
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
@@ -912,14 +836,12 @@ No known alternatives.
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
 ## <span style="color:firebrick">YouTube</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
