@@ -239,7 +239,7 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 | [Toute autre forme de Linux](https://www.linuxfoundation.org/) |            | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) ou [Manjaro](https://manjaro.org/) (Manjaro est objectivement beaucoup plus facile à faire fonctionner que Arch) ; [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (merci à u/privacyfreak555) ; [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 ## <span style="color:firebrick">Clock</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                               | Yeux | Description                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -268,11 +268,11 @@ Miroir : [https://framagit.org/retiolus/privacysec](https://framagit.org/retiol
 ## <span style="color:firebrick">FitBit</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
-No known alternatives.
+Aucune alternative connue.
 
-- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+- *En raison de l'[acquisition récente de FitBit](https://outline.com/tsJCYN) par Google, il est recommandé d'éviter d'utiliser FitBit. À la place, regardez cette [liste de montres intelligentes](https://asteroidos.org/install/) prise en charge par Asteroid OS (Voir Wear OS dans [Systèmes d'exploitation](#operating-systems)). Merci à @ribtoks*
 
-## <span style="color:firebrick">Gboard</span> (Google Keyboard)
+## <span style="color:firebrick">Gboard</span> (clavier Google)
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
 | Nom                                                                                                                                                                                                                                 | Yeux | Description                                                                                                                                                                                                                                                                                      |
@@ -813,12 +813,12 @@ No known alternatives.
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Retour en haut de page](https://img.shields.io/badge/Retour%20en%20haut%20de%20page-lightgrey?style=flat-square)](#index)
 
-- *See [Google Docs](#google-docs)*
+- *Voir [Google Docs](#google-docs)*
 
 ## <span style="color:firebrick">Microsoft OneDrive</span>
 [![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-- *See [Google Drive](#google-drive)*
+- *Voir [Google Drive](#google-drive)*
 
 ## <span style="color:firebrick">Microsoft Teams</span>
 [![Retour en haut de page](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
