@@ -4,14 +4,16 @@
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
 *Based on data from:*
-- *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
-- *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
-- *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
-- *[https://github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
-- *[https://github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
+- *[github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
+- *[github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
+- *[github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
+- *[github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
+- *[github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
+- *[nogafam.es/#servicios](https://nogafam.es/#servicios)*
+
 # Index
 
 1. [Browser extensions](#browser-extensions)
@@ -468,6 +470,9 @@ No known alternatives.
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
 | [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
+| [IceCat](https://www.gnu.org/software/gnuzilla/) | | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black)<br />GNU IceCat is a fork of Firefox that is more private and secure than Firefox and it contains several privacy-protecting features. IceCat 60 makes no unsolicited connections when you run it. Previous versions had privacy problems, but version 60 doesn't have these problems. You can read about the previous version here: [IceCat 59 Review](https://spyware.neocities.org/articles/icecat59.html) |
+| [Otter](https://otter-browser.org/) ![GitHub stars](https://img.shields.io/github/stars/OtterBrowser/otter-browser?style=flat-square)| | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black)<br /> Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5. Controlled by the user, not vice versa |
+| [Falkon](https://www.falkon.org/) | | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> Falkon is a KDE web browser using QtWebEngine rendering engine, previously known as QupZilla. It aims to be a lightweight web browser available through all major platforms. This project has been originally started only for educational purposes. But from its start, Falkon has grown into a feature-rich browser. |
 
 ## <span style="color:firebrick">Google Classroom</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
