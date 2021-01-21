@@ -196,6 +196,8 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Ghost](https://ghost.org/) |     | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
 | [Simpleblogs](https://simpleblogs.org/) |     | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
+| [Plume](https://joinplu.me/) | | Plume is not just a single website, but an entire interconnected, yet independent network of what we call instances. You write content from your own instance, but anyone else on any other Plume instance can enjoy your stories too.  |
+| [WriteFreely](https://writefreely.org/) | | An [open source](https://github.com/writeas/writefreely) platform for building a writing space on the web. |
 
 ## <span style="color:firebrick">Calculator</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -860,6 +862,13 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 |[Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square)||![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers.|
+
+## <span style="color:firebrick">Spotify</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+| Name | Eyes | Description |
+| --- | --- | --- |
+| [Funkwhale](https://funkwhale.audio/)||Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, [open](https://dev.funkwhale.audio/funkwhale) network.|
 
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
