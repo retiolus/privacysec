@@ -143,6 +143,7 @@ Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacy
 | [postmarketOS](https://postmarketos.org/) |            | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias                                 |
 | [Replicant](https://replicant.us/)        | **5 ojos** | Free Android distribution. Puts the emphasis on "freedom and privacy/security".                                                                                                                              |
 | [CalyxOS](https://calyxos.org/)           |            | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
+| [Mobian](https://mobian-project.org)      |            | Debian for mobile.                                                                                                                                                                                           |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see Issue #55 for details on /e/.*
@@ -250,6 +251,7 @@ Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacy
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |      | [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch.                                                                                                                                                                                           |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)                                                                                                                                  |      | Exactamente como su nombre dice; reloj de alarma simple y añade muchas mejoras sobre otras aplicaciones. No dock mode or world clock.                                                                                                                                                |
 | [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm)                                                                                                                                    |      | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
+| [Alarmio](https://f-droid.org/en/packages/me.jfenn.alarmio/)[![F-Droid](https://img.shields.io/f-droid/v/me.jfenn.alarmio?style=flat-square)](https://f-droid.org/en/packages/me.jfenn.alarmio/)  |      | Simple alarm clock focused on design, readability, and Internet radio.                                                                                                                                                                                                               |
 
 ## <span style="color:firebrick">Contacts</span>
 [![Regresar arriba](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -1007,6 +1009,7 @@ Everything you need to become a Privacy Wizard.
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 - [Tracking Exposed](https://tracking.exposed), fight for a web that is home for many, not property of the few!
+- [fix-windows-privacy](https://modzero.github.io/fix-windows-privacy/), Fix Windows Privacy is a tool to disable privacy breaches on Windows 10.
 
 ## Books
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
