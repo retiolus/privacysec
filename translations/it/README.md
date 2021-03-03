@@ -1,27 +1,32 @@
+![Image](GAFAM.png)
+
 # **PRIVACYSEC**
 [![Crowdin](https://badges.crowdin.net/privacysec/localized.svg)](https://crowdin.com/project/privacysec)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
+Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacysec)
 
 *Based on data from:*
-- *[https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
-- *[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
-- *[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
-- *[https://github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
-- *[https://github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
-# Index
+- *[github.com/tycrek/degoogle](https://github.com/tycrek/degoogle)*
+- *[github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)*
+- *[github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)*
+- *[github.com/humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)*
+- *[github.com/yretenai/fuck-adobe](https://github.com/yretenai/fuck-adobe)*
+- *[nogafam.es/#servicios](https://nogafam.es/#servicios)*
+
+# Indice
 
 1. [Browser extensions](#browser-extensions)
 2. **[Replacements/alternatives](#replacementsalternatives)**
-    1. [Adobe](#adobe-after-effects)
+    1. [Adobe](#adobe)
     2. [Android](#androidfushsia)
-    3. [Google](#bloggersites)
-    4. [Instagram](#instagram)
-    5. [Microsoft](#microsoft-office)
-    6. [Reddit](#reddit)
-    7. [Twitter](#twitter)
-    8. [WhatsApp](#whatsapp)
+    3. [Facebook](#facebook)
+    4. [Google](#google)
+    5. [Instagram](#instagram)
+    6. [Microsoft](#microsoft)
+    7. [Reddit](#reddit)
+    8. [Twitter](#twitter)
+    9. [WhatsApp](#whatsapp)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
     1. [Resources](#resources)
     2. [Books](#books)
@@ -63,6 +68,17 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 |                          5                           | Australia, Canada, New Zeland, UK, USA |
 |                          9                           | Denmark, France, Netherlands, Norway   |
 |                          14                          | Germany, Belgium, Italy, Sweden, Spain |
+
+## <span style="color:firebrick">Adobe</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Adobe
+    - [After Effects](#adobe-after-effects)
+    - [Audition](#adobe-audition)
+    - [Dreamweaver](#adobe-dreamweaver)
+    - [Illustrator](#adobe-illustrator)
+    - [Photoshop](#adobe-photoshop)
+    - [Premiere Pro](#adobe-premiere-pro)
 
 ## <span style="color:firebrick">Adobe After Effects</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -182,6 +198,8 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Ghost](https://ghost.org/)                     |            | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998                                                                                                                                                    |
 | [Bear](https://bearblog.dev/)                   | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.                                                                                                                                                                         |
 | [Simpleblogs](https://simpleblogs.org/)         |            | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
+| [Plume](https://joinplu.me/)                    |            | Plume is not just a single website, but an entire interconnected, yet independent network of what we call instances. You write content from your own instance, but anyone else on any other Plume instance can enjoy your stories too.                                       |
+| [WriteFreely](https://writefreely.org/)         |            | An [open source](https://github.com/writeas/writefreely) platform for building a writing space on the web.                                                                                                                                                                   |
 
 ## <span style="color:firebrick">Calculator</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -243,8 +261,18 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |      | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio)                                                           |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/)                                                                        |      | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.                              |
 
+## <span style="color:firebrick">Facebook</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Facebook
+    - [Instagram](#istagram)
+    - [Twitter](#twitter)
+    - [WhatsApp](#whatsapp)
+
 ## <span style="color:firebrick">FitBit</span>
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index) No known alternatives.
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
@@ -293,6 +321,50 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Mailfence](https://www.mailfence.com)                              | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/)                                   |             | Privacy-focused email provider located in Iceland.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Anonaddy](https://anonaddy.com/)                                   | **9-eyes**  | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).                                                                                                                                                                                                                                                                        |
+
+## <span style="color:firebrick">Google</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Google
+    - [Blogger](#bloggersites)
+    - [Chromebook](#chromebook)
+    - [Chromecast](#chromecast)
+    - [Chrome OS](#chrome-os)
+    - [FitBit](#fitbit)
+    - [Gboard](#gboard)
+    - [Gmail](#gmail)
+    - [Google Ads/AdMob/AdSense](#google-adsadmobadsense)
+    - [Google Alerts](#google-alerts)
+    - [Google Analytics](#google-analytics)
+    - [Google Assistant](#google-assistant)
+    - [Google Authenticator](#google-authenticator)
+    - [Google Calendar](#google-calendar)
+    - [Google Camera](#google-camera)
+    - [Google Chrome](#google-chrome)
+    - [Google Classroom](#google-classroom)
+    - [Google Docs/Sheets/Slides](#google-docssheetsslides)
+    - [Google Domains](#google-domains)
+    - [Google Drive](#google-drive)
+    - [Google Duo](#google-duo)
+    - [Google Fonts](#google-fonts)
+    - [Google Earth](#google-earth)
+    - [Google Forms](#google-forms)
+    - [Google Groups](#google-groups)
+    - [Google Home](#google-home)
+    - [Google Keep](#google-keep)
+    - [Google Maps/Street View](#google-mapsstreet-view)
+    - [Google News](#google-news)
+    - [Google Photos](#google-photos)
+    - [Google Pixel/Nexus](#google-pixelnexus)
+    - [Google Play Music, Movies, & TV](#google-play-music-movies--tv)
+    - [Google Play Services Framework](#google-play-services-framework)
+    - [Google Play Store](#google-play-store)
+    - [Google Search](#google-search)
+    - [G suite (enterprise cloud)](#g-suite-enterprise-cloud)
+    - [Google Translate](#google-translate)
+    - [Google Transit](#google-transit)
+    - [Wear Os](#wear-os)
+    - [YouTube](#youtube)
 
 ## <span style="color:firebrick">Google Ads/AdMob/AdSense</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -392,12 +464,15 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 #### Desktop
 
-| Name                                                                | Eyes       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |            | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [Firefox](https://firefox.com/)                                     |            | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [Waterfox](https://www.waterfox.net/)                               | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
-| [Tor Browser](https://www.torproject.org/download/)                 |            | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android.                                                                                                                                                                                |
+| Name                                                                                                                                  | Eyes       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                                                                   |            | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [Firefox](https://firefox.com/)                                                                                                       |            | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [Waterfox](https://www.waterfox.net/)                                                                                                 | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
+| [Tor Browser](https://www.torproject.org/download/)                                                                                   |            | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android.                                                                                                                                                                                |
+| [IceCat](https://www.gnu.org/software/gnuzilla/)                                                                                      |            | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black)<br />GNU IceCat is a fork of Firefox that is more private and secure than Firefox and it contains several privacy-protecting features. IceCat 60 makes no unsolicited connections when you run it. Previous versions had privacy problems, but version 60 doesn't have these problems. You can read about the previous version here: [IceCat 59 Review](https://spyware.neocities.org/articles/icecat59.html)                                                                                               |
+| [Otter](https://otter-browser.org/) ![GitHub stars](https://img.shields.io/github/stars/OtterBrowser/otter-browser?style=flat-square) |            | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black)<br /> Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5. Controlled by the user, not vice versa                                                                                                                                                              |
+| [Falkon](https://www.falkon.org/)                                                                                                     |            | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) <br /> Falkon is a KDE web browser using QtWebEngine rendering engine, previously known as QupZilla. It aims to be a lightweight web browser available through all major platforms. This project has been originally started only for educational purposes. But from its start, Falkon has grown into a feature-rich browser.                                                                         |
 
 ## <span style="color:firebrick">Google Classroom</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -553,7 +628,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/)                                                 |      | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.                     |
 | [Notally](https://github.com/OmGodse/Notally)                                                                                                                                                         |      | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).                                          |
 
-## <span style="color:firebrick">Google Maps/Stree View</span>
+## <span style="color:firebrick">Google Maps/Street View</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Application
@@ -673,6 +748,24 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 - *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
+## <span style="color:firebrick">Google Search</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+| Name                                                         | Eyes        | Description                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DuckDuckGo](https://duckduckgo.com/)                        | **5-eyes**  | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.                                                                                                                                                                                                                                                                                   |
+| [Startpage](https://www.startpage.com/)                      | **9-eyes**  | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
+| [searx.me](https://searx.me/)                                |             | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.                                                                                                                                                                                                                                                                 |
+| [MetaGer](https://metager.org/about)                         | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.                                                                                                                                                                                                                                                                                                      |
+| [Qwant](https://www.qwant.com/)                              | **9-eyes**  | Major improvements since 2018's guide. *would prefer better info other than an outdated reference*                                                                                                                                                                                                                                                                                                         |
+| [Swisscows](https://swisscows.ch)                            |             | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting.                                                                                                                                             |
+| [Mojeek](https://www.mojeek.com/)                            | **5-eyes**  | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.                                                                                       |
+| [Ekoru](https://ekoru.org/)                                  |             | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon                                                                                                                                                                                                                                                                                                                   |
+| [Cyberd](https://cyber.page/)                                |             | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.                                                                                                         |
+| [Infinity Search](https://infinitysearch.co/)                | **5-eyes**  | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely [open-source](https://gitlab.com/infinitysearch/infinity-search).                                                                    |
+| [Runnaroo](https://www.runnaroo.com/)                        | **5-eyes**  | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli                                                                                                                                                                                                                                                                                           |
+| [Whoogle Search](https://github.com/benbusby/whoogle-search) |             | A self-hosted, ad-free, privacy-respecting Google metasearch engine.                                                                                                                                                                                                                                                                                                                                       |
+
 ## <span style="color:firebrick">G suite (enterprise cloud)</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
@@ -686,10 +779,11 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 #### Web-based
 
-| Name                              | Eyes        | Description                                                                                                                                                                                                                                                                     |
-| --------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [DeepL](https://deepl.com/)       | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
-| [Apertium](https://apertium.org/) |             | A free, [open-source](https://github.com/apertium/apertium) translation system.                                                                                                                                                                                                 |
+| Name                                          | Eyes        | Description                                                                                                                                                                                                                                                                     |
+| --------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LibreTranslate](https://libretranslate.com/) |             | Free and [Open Source](https://github.com/uav4geo/LibreTranslate) Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations.                                                   |
+| [DeepL](https://deepl.com/)                   | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
+| [Apertium](https://apertium.org/)             |             | A free, [open-source](https://github.com/apertium/apertium) translation system.                                                                                                                                                                                                 |
 
 ## <span style="color:firebrick">Google Transit</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -714,6 +808,15 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | ------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Pixelfed](https://pixelfed.org)      |      | Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.                                                                                                                                                                               |
 | [Bibliogram](https://bibliogram.art/) |      | Bibliogram is an [open-source](https://sr.ht/~cadence/bibliogram/) website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. |
+
+## <span style="color:firebrick">Microsoft</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+- ### Microsoft
+    - [Microsoft Office](#microsft-office)
+    - [Microsoft OneDrive](#microsoft-onedrive)
+    - [Microsoft Teams](#microsft-teams)
+    - [Microsoft Visual Studio](#microsoft-visual-studio)
 
 ## <span style="color:firebrick">Microsoft Office</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -747,7 +850,7 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 
 | Name                                                                                                                                                                                                                                                                                                                                                                  | Eyes | Description                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)                                                                                                                                                                                                                                    |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/LemmyNet/lemmy) - a federated reddit alternative                                                                                                                                                                                                                         |
+| [lemmur](https://github.com/krawieck/lemmur)![GitHub stars](https://img.shields.io/github/stars/krawieck/lemmur?style=flat-square)                                                                                                                                                                                                                                    |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) <br />A mobile client for [lemmy](https://github.com/retiolus/privacysec/blob/main/README.md#web-based-11) - a federated reddit alternative                                                                                                                                                                                   |
 | [Infinity](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)[![F-Droid](https://img.shields.io/f-droid/v/ml.docilealligator.infinityforreddit?style=flat-square)](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)![GitHub stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely free and ad-less; you can browse Reddit without interruptions or distractions. Built by a passionate university student, Infinity is [open source](https://github.com/Docile-Alligator/Infinity-For-Reddit). |
 | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)![GitHub stars](https://img.shields.io/github/stars/QuantumBadger/RedReader?style=flat-square)                                                                                                                                                                                  |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />An unofficial, [open source](https://github.com/QuantumBadger/RedReader) Android client for Reddit.                                                                                                                                                                                                                      |
 | [Slide](https://f-droid.org/packages/me.ccrama.redditslide/)[![F-Droid](https://img.shields.io/f-droid/v/me.ccrama.redditslide?style=flat-square)](https://f-droid.org/en/packages/me.ccrama.redditslide/)![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide?style=flat-square)                                                                         |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black)<br />Slide is an [open source](https://github.com/ccrama/Slide), ad free Reddit browser for Android. It is based around the [Java Reddit API Wrapper](https://github.com/thatJavaNerd/JRAW).                                                                                                                                  |
@@ -764,6 +867,13 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 | Name                                                                                                                                     | Eyes | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Mattermost](https://mattermost.com/)![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat-square) |      | ![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=ios&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black) ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br />Mattermost is an [open source](https://github.com/mattermost/mattermost-server), private cloud, Slack-alternative built for developers. |
+
+## <span style="color:firebrick">Spotify</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+
+| Name                                  | Eyes | Description                                                                                                                                                           |
+| ------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Funkwhale](https://funkwhale.audio/) |      | Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, [open](https://dev.funkwhale.audio/funkwhale) network. |
 
 ## <span style="color:firebrick">Twitter</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -817,12 +927,14 @@ Mirror: [https://framagit.org/retiolus/privacysec](https://framagit.org/retiolus
 - ***Removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv on [@tycrek repo.](https://github.com/tycrek/degoogle)*
 
 ## <span style="color:firebrick">Wear OS</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Name                                  | Eyes        | Description                                                                                                                                |
 | ------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
 ## <span style="color:firebrick">YouTube</span>
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Applications
 
@@ -941,3 +1053,7 @@ Everything you need to become a Privacy Wizard.
 | [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr)                                                            | ![Published](https://img.shields.io/badge/2019--08--13-informational?style=flat-square) | Nitasha Tiku - WIRED                                  |
 | [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh)                                       | ![Published](https://img.shields.io/badge/2020--01--23-informational?style=flat-square) | Natasha Lomas - TechCrunch                            |
 | [You Are Now Remotely Controlled](https://outline.com/uzKKcq)                                                                                              | ![Published](https://img.shields.io/badge/2020--01--24-informational?style=flat-square) | Shoshana Zuboff - New York Times                      |
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/retiolus/privacysec.svg)](https://starchart.cc/retiolus/privacysec)
