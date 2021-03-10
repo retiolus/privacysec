@@ -402,6 +402,7 @@ No known alternatives.
 | [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | An [open-source](https://github.com/kindmetrics) analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
 | [userTrack](https://www.usertrack.net/) |     | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
+| [Panelbear](https://panelbear.com/) | **14-yes**  | Privacy-focused analytics + web performance monitoring. |
 
 ## <span style="color:firebrick">Google Assistant</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -630,6 +631,12 @@ No known alternatives.
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) [![F-Droid](https://img.shields.io/f-droid/v/com.omgodse.notally?style=flat-square)](https://f-droid.org/en/packages/com.omgodse.notally/)|  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. |
 
+#### Web-based
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [TiddlyWiki](https://tiddlywiki.com/) ![GitHub stars](https://img.shields.io/github/stars/Jermolene/TiddlyWiki5?style=flat-square) |  | ![Firefox](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=firefox&logoColor=black)<br /> An [open-source](https://github.com/Jermolene/TiddlyWiki5) personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options. |
+
 ## <span style="color:firebrick">Google Maps/Street View</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
@@ -776,6 +783,7 @@ No known alternatives.
 | --- | --- | --- |
 | [Nextcloud](https://www.nextcloud.com/) |     | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 | [Open-Xchange](https://www.open-xchange.com) |     | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
+| [Sandstorm](https://sandstorm.io/) ![GitHub stars](https://img.shields.io/github/stars/sandstorm-io/sandstorm?style=flat-square) | | An [open-source](https://github.com/sandstorm-io/sandstorm) self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban) |
 
 ## <span style="color:firebrick">Google Translate</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
