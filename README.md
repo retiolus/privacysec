@@ -143,6 +143,7 @@ Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacy
 | [postmarketOS](https://postmarketos.org/) |     | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 | [CalyxOS](https://calyxos.org/) |     | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
+| [Mobian](https://mobian-project.org) | | Debian for mobile. |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see Issue #55 for details on /e/.*
@@ -250,6 +251,7 @@ Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacy
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
 | [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
+| [Alarmio](https://f-droid.org/en/packages/me.jfenn.alarmio/)[![F-Droid](https://img.shields.io/f-droid/v/me.jfenn.alarmio?style=flat-square)](https://f-droid.org/en/packages/me.jfenn.alarmio/)| | Simple alarm clock focused on design, readability, and Internet radio. |
 
 ## <span style="color:firebrick">Contacts</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -321,6 +323,7 @@ No known alternatives.
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/) |     | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
+| [Mail-in-a-Box](https://mailinabox.email/) ![GitHub stars](https://img.shields.io/github/stars/mail-in-a-box/mailinabox?style=flat-square) |  | Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. |
 
 ## <span style="color:firebrick">Google</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -427,7 +430,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |     | Developed by Mozilla Foundation and [open-source](https://www.thunderbird.net/en-US/get-involved/). Integrates into Thunderbird and SeaMonkey. |
-| [EteSync](https://www.etesync.com) |     | Secure, end-to-end encrypted, and [open-source](https://www.etesync.com/) sync for your contacts, calendars and tasks. |
+| [EteSync](https://www.etesync.com) |     | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 | [DAVx⁵](https://www.davx5.com/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.davdroid/) |  | DAVx⁵ is an [open-source](https://gitlab.com/bitfireAT/davx5-ose) CalDAV/CardDAV suite and sync app for Android. |
 | [ICSx⁵](https://icsx5.bitfire.at/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.icsdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.icsdroid/) |  | ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
@@ -518,7 +521,6 @@ No known alternatives.
 | Name | Eyes | Description |
 | --- | --- | --- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
-| [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
 | [Orangewebsite](https://www.orangewebsite.com/) |     | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
 ## <span style="color:firebrick">Google Drive</span>
@@ -618,7 +620,7 @@ No known alternatives.
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |     | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Turtl](https://turtlapp.com/) |     | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |     | [Open-source](https://github.com/pbek/QOwnNotes) file editor with Markdown support. (thanks u/maqp2) |
-| [EteSync](https://www.etesync.com) |     | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks. |
+| [EteSync](https://www.etesync.com) |     | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 | [GitJournal](https://gitjournal.io/) |     | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
 | [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |     | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 | [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad?style=flat-square)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | [Open-source](https://github.com/farmerbb/Notepad). Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
@@ -626,7 +628,7 @@ No known alternatives.
 | [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote?style=flat-square)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | [Open-source](https://github.com/gsantner/markor) notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
-| [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
+| [Notally](https://github.com/OmGodse/Notally) [![F-Droid](https://img.shields.io/f-droid/v/com.omgodse.notally?style=flat-square)](https://f-droid.org/en/packages/com.omgodse.notally/)|  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. |
 
 ## <span style="color:firebrick">Google Maps/Street View</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -720,6 +722,7 @@ No known alternatives.
 | --- | --- | --- |
 | [Funkwhale](https://funkwhale.audio/) |     | Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals) |
 | [Airsonic](https://airsonic.github.io/) |     | Self-hosted [open-source](https://github.com/airsonic/airsonic) media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful. |
+| [Ampache](https://ampache.org/) ![GitHub stars](https://img.shields.io/github/stars/ampache/ampache?style=flat-square)|  | [Open-source](https://github.com/ampache/ampache) and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
@@ -943,6 +946,8 @@ No known alternatives.
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe) ![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
 | [FreeTube](https://freetubeapp.io/) ![GitHub stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square) |     | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the [Invidio.us](https://github.com/iv-org/invidious) API to serve content. |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
+| [youtube-local](https://github.com/user234683/youtube-local) | | ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=apple&logoColor=black)<br/> Open-source browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists.|
+
 
 #### Web-based
 
@@ -1007,6 +1012,7 @@ Everything you need to become a Privacy Wizard.
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 - [Tracking Exposed](https://tracking.exposed), fight for a web that is home for many, not property of the few! 
+- [fix-windows-privacy](https://modzero.github.io/fix-windows-privacy/), Fix Windows Privacy is a tool to disable privacy breaches on Windows 10.
 
 ## Books 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
