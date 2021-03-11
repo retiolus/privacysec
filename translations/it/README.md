@@ -143,7 +143,7 @@ Mirror: [framagit.org/retiolus/privacysec](https://framagit.org/retiolus/privacy
 | [postmarketOS](https://postmarketos.org/) |            | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias                                 |
 | [Replicant](https://replicant.us/)        | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security".                                                                                                                              |
 | [CalyxOS](https://calyxos.org/)           |            | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
-| [Mobian](https://mobian-project.org)      |            | Debian for mobile.                                                                                                                                                                                           |
+| [Mobian](https://mobian-project.org)      |            | Debian per cellulari.                                                                                                                                                                                        |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see Issue #55 for details on /e/.*
