@@ -402,7 +402,7 @@ No known alternatives.
 | [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | An [open-source](https://github.com/kindmetrics) analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
 | [userTrack](https://www.usertrack.net/) |     | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
-| [Panelbear](https://panelbear.com/) | **14-yes**  | Privacy-focused analytics + web performance monitoring. |
+| [Panelbear](https://panelbear.com/) | **14-eyes**  | Privacy-focused analytics + web performance monitoring. |
 
 ## <span style="color:firebrick">Google Assistant</span>
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -740,6 +740,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
+| [RHVoice](https://github.com/RHVoice/RHVoice) [![F-Droid](https://img.shields.io/f-droid/v/com.github.olga_yakovleva.rhvoice.android?style=flat-square)](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) ![GitHub stars](https://img.shields.io/github/stars/RHVoice/RHVoice?style=flat-square)|  |![Android](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=android&logoColor=black) ![Linux](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-white.svg??style=for-the-badge&logo=windows&logoColor=black)  <br /> RHVoice is a free and open source speech synthesizer. |
 
 
 ## <span style="color:firebrick">Google Play Store</span>
